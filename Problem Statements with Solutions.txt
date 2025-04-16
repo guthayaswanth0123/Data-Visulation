@@ -1,0 +1,292 @@
+✅ 1. Bar Plot: Average Fare by Seat Class
+Improved Problem Statement:
+Analyze and compare the average ticket fare for each seat class to understand pricing trends across different travel classes.
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+# Load the dataset
+df = pd.read_csv('IRCTC_Dataset.csv')
+# Plot average fare by seat class
+plt.figure(figsize=(8, 5))
+avg_fare = df.groupby('Seat Class')['Fare Amount'].mean().sort_values()
+sns.barplot(x=avg_fare.index, y=avg_fare.values)
+plt.title('Average Fare by Seat Class')
+plt.xlabel('Seat Class')
+plt.ylabel('Average Fare')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+
+
+
+
+
+
+✅ 2. Histogram: Distribution of Fare Amounts
+Improved Problem Statement:
+Examine how fare amounts are distributed among passengers to identify common ticket price ranges and detect any skewness.
+
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv('IRCTC_Dataset.csv')
+
+# Plot the histogram 
+plt.figure(figsize=(8, 5))
+plt.hist(df['Fare Amount'].dropna(), bins=20, color='skyblue', edgecolor='black')
+plt.title('Distribution of Fare Amounts')
+plt.xlabel('Fare')
+plt.ylabel('Frequency')
+plt.tight_layout()
+plt.show()
+
+
+
+
+✅ 3. Pie Chart: Proportion of Booking Status Categories
+Improved Problem Statement:
+Visualize the percentage share of each booking status category (e.g., Confirmed, Waiting, etc.) to understand overall reservation trends.
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load the dataset
+df = pd.read_csv('IRCTC_Dataset.csv')
+
+# Strip whitespace from column names
+df.columns = df.columns.str.strip()
+
+# Rename column to a standard name for easy access
+df.rename(columns={'Booking Status': 'Booking_Status'}, inplace=True)
+
+# Plot the pie chart
+status_counts = df['Booking_Status'].value_counts()
+plt.figure(figsize=(6, 6))
+plt.pie(status_counts, labels=status_counts.index, autopct='%1.1f%%', startangle=140)
+plt.title('Proportion of Booking Status')
+plt.tight_layout()
+plt.show()
+
+
+
+
+
+4✅ 4. Box Plot: Fare Distribution Across Seat Classes
+Improved Problem Statement:
+Visualize the spread, median, and outliers of fare values for each seat class to assess variability and detect fare anomalies by class.
+
+
+
+
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load the dataset
+df = pd.read_csv('IRCTC_Dataset.csv')
+
+# Clean and print the column names
+df.columns = df.columns.str.strip()  # Remove extra spaces
+
+
+# Rename columns if necessary
+df.rename(columns={'Fare Amount': 'Fare',
+                   'Seat Class': 'Seat_Class'}, inplace=True)
+
+# Plot
+plt.figure(figsize=(8, 5))
+sns.boxplot(x='Seat_Class', y='Fare', data=df)
+plt.title('Fare Distribution by Seat Class')
+plt.xlabel('Seat Class')
+plt.ylabel('Fare')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+
+
+
+✅ 5. Count Plot: Booking Status Frequency
+Improved Problem Statement:
+Count and display how frequently each booking status occurs to assess the proportion of confirmed versus unconfirmed reservations.
+
+
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load dataset
+df = pd.read_csv('IRCTC_Dataset.csv')
+
+# Clean column names
+df.columns = df.columns.str.strip()
+
+# Plot countplot 
+plt.figure(figsize=(7, 4))
+sns.countplot(x='Booking Status', hue='Booking Status',
+              data=df, palette='Set2', legend=False)
+plt.title('Booking Status Frequency')
+plt.xlabel('Booking Status')
+plt.ylabel('Count')
+plt.tight_layout()
+plt.show()
+
+
+
+6)
+
+✅ 6. Violin Plot: Fare Variation by Booking Status
+Improved Problem Statement:
+Visualize the distribution, spread, and density of fare amounts across different booking statuses to identify potential pricing differences.
+
+
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load the dataset
+df = pd.read_csv('IRCTC_Dataset.csv')
+
+# Clean column names
+df.columns = df.columns.str.strip()
+
+# Plot violin plot with different colors and grid
+plt.figure(figsize=(8, 5))
+sns.violinplot(x='Booking Status', y='Fare Amount', hue='Booking Status', data=df, palette='Set2', legend=False)
+plt.title('Fare Variation by Booking Status')
+plt.xlabel('Booking Status')
+plt.ylabel('Fare')
+plt.grid(True)  # Add grid lines
+plt.tight_layout()
+plt.show()
+
+
+
+7) 
+✅✅ 7. Heatmap: Correlation Matrix for Numeric Features
+Improved Problem Statement:
+Investigate the correlations between numerical variables like fare, age, etc., to identify linear relationships and data dependencies.
+
+
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load the dataset
+df = pd.read_csv('IRCTC_Dataset.csv')
+
+# Clean column names (remove leading/trailing spaces)
+df.columns = df.columns.str.strip()
+
+# Select numeric columns for correlation
+numeric_cols = df.select_dtypes(include='number')
+
+# Plot the heatmap
+plt.figure(figsize=(8, 6))
+sns.heatmap(numeric_cols.corr(), annot=True, cmap='coolwarm', linewidths=0.5, linecolor='gray')
+plt.title('Correlation Matrix')
+plt.tight_layout()
+plt.show()
+
+
+
+8)
+✅Pair Plot: Relationship Between Numeric Variables
+Improved Problem Statement:
+Explore pairwise scatter plots between numeric features to identify relationships, clustering, or patterns in the passenger dataset.
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load and clean the dataset
+df = pd.read_csv('IRCTC_Dataset.csv')
+df.columns = df.columns.str.strip()
+
+# Select numeric columns only
+numeric_cols = df.select_dtypes(include='number')
+
+# Create pairplot
+sns.pairplot(numeric_cols)
+plt.suptitle("Pairwise Relationships
+             Between Numeric Variables", y=1.02)
+plt.tight_layout()
+plt.show()
+
+
+
+
+
+9)
+
+
+✅ 10. Bar Plot: Number of Passengers by Train Name
+Problem Statement:
+Display the number of passengers traveling on different trains to identify popular trains with the highest passenger counts.
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load and preprocess
+df = pd.read_csv('IRCTC_Dataset.csv')
+df.columns = df.columns.str.strip()
+
+# Group and count passengers
+passenger_count = df['Train Name'].value_counts().head(10)
+
+# Prepare data for seaborn
+data = pd.DataFrame({
+    'Train Name': passenger_count.index,
+    'Passenger Count': passenger_count.values
+})
+
+# Plot
+plt.figure(figsize=(10, 5))
+sns.barplot(data=data, x='Passenger Count', y='Train Name', hue='Train Name', palette='viridis')
+plt.title('Top 10 Trains by Passenger Count')
+plt.xlabel('Number of Passengers')
+plt.ylabel('Train Name')
+plt.tight_layout()
+plt.show()
+
+
+
+10)
+
+
+✅ 9. Line Plot: Trend of Total Fare Over Journey Date
+Problem Statement:
+Track the total fare collected over time based on the journey date to understand travel trends and high-revenue days.
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load and preprocess
+df = pd.read_csv('IRCTC_Dataset.csv')
+df.columns = df.columns.str.strip()
+df['Journey Date'] = pd.to_datetime(df['Journey Date'], errors='coerce')
+
+# Group by journey date
+fare_by_date = df.groupby('Journey Date')['Fare Amount'].sum().reset_index()
+
+# Plot
+plt.figure(figsize=(10, 5))
+plt.plot(fare_by_date['Journey Date'], fare_by_date['Fare Amount'], marker='o', color='teal')
+plt.title('Total Fare Collected Over Time')
+plt.xlabel('Journey Date')
+plt.ylabel('Total Fare')
+plt.grid(True)
+plt.tight_layout()
+plt.show()
+

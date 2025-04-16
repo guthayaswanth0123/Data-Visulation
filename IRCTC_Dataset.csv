@@ -1,0 +1,1051 @@
+PNR Number,Train Name,Train Number,Source Station,Destination Station,Journey Date,Seat Class,Fare Amount,Booking Status
+5681699361,Tejas Express,22119,Chennai,Mumbai,4/8/2024,Sleeper,609.69,Cancelled
+9909103784,Rajdhani Express,12951,Lucknow,Kolkata,6/21/2023,3AC,802.62,Waiting
+8533791411,Tejas Express,22119,Jaipur,Hyderabad,12/13/2024,1AC,2927.46,RAC
+4092302012,Tejas Express,22119,Hyderabad,Chennai,12/15/2024,3AC,2105.73,RAC
+1936332856,Garib Rath Express,12909,Chennai,New Delhi,6/10/2024,1AC,4662.02,Waiting
+6010808914,Duronto Express,12245,Lucknow,Kolkata,12/19/2023,Sleeper,531.37,Confirmed
+6622224441,Shatabdi Express,12001,Lucknow,Mumbai,10/28/2023,3AC,1397.76,RAC
+6636687356,Shatabdi Express,12001,Hyderabad,Kolkata,8/2/2024,1AC,2742.15,Waiting
+5442502437,Garib Rath Express,12909,Hyderabad,Ahmedabad,8/19/2024,2AC,2626.24,RAC
+2055344313,Shatabdi Express,12001,Lucknow,Jaipur,5/22/2024,Sleeper,489.7,RAC
+1887338315,Tejas Express,22119,Ahmedabad,Jaipur,10/21/2023,Sleeper,618.62,Cancelled
+5901018674,Humsafar Express,22448,Jaipur,Pune,9/22/2023,General,358.64,RAC
+9841591382,Humsafar Express,22448,Pune,Bangalore,3/18/2023,2AC,3136.21,Cancelled
+4969421771,Rajdhani Express,12951,Bangalore,Pune,9/6/2023,Sleeper,882.64,Waiting
+7553060058,Humsafar Express,22448,Ahmedabad,Lucknow,1/10/2024,Sleeper,921.14,RAC
+8923461174,Tejas Express,22119,Bangalore,Lucknow,12/14/2024,Sleeper,743.36,Cancelled
+7782904387,Shatabdi Express,12001,Pune,Ahmedabad,4/19/2023,3AC,1108.12,Cancelled
+3881099945,Garib Rath Express,12909,Hyderabad,Ahmedabad,1/8/2024,Sleeper,922.54,Confirmed
+6044650274,Humsafar Express,22448,New Delhi,Ahmedabad,8/30/2024,General,476.44,Cancelled
+4266958639,Duronto Express,12245,Pune,Bangalore,10/4/2023,Sleeper,971.71,Confirmed
+6930405645,Duronto Express,12245,Ahmedabad,Lucknow,2/5/2024,1AC,4828.2,Cancelled
+1630923990,Tejas Express,22119,Hyderabad,Kolkata,12/21/2024,General,281.27,RAC
+8141459346,Garib Rath Express,12909,Mumbai,Chennai,2/14/2024,Sleeper,619.34,Confirmed
+8553749268,Humsafar Express,22448,New Delhi,Chennai,11/21/2023,2AC,3663.31,RAC
+1664198442,Humsafar Express,22448,Pune,Lucknow,6/6/2023,General,248.57,RAC
+2842011488,Rajdhani Express,12951,Lucknow,Hyderabad,12/19/2023,2AC,1979.07,Cancelled
+1106587098,Tejas Express,22119,Mumbai,Kolkata,7/1/2023,1AC,3652.21,Confirmed
+4693153078,Garib Rath Express,12909,Chennai,Jaipur,12/20/2024,General,344.9,Cancelled
+1834940316,Shatabdi Express,12001,Bangalore,New Delhi,11/8/2024,1AC,3184.67,RAC
+4964075505,Garib Rath Express,12909,Chennai,Mumbai,3/11/2023,Sleeper,990.06,Waiting
+8026900776,Duronto Express,12245,Lucknow,New Delhi,12/14/2023,3AC,955.58,Confirmed
+9972252258,Garib Rath Express,12909,Lucknow,Ahmedabad,7/29/2024,2AC,3278.03,RAC
+6410466678,Rajdhani Express,12951,Jaipur,Hyderabad,1/11/2024,2AC,1734.02,Waiting
+6049803354,Shatabdi Express,12001,Hyderabad,Jaipur,11/12/2024,2AC,1521.41,Cancelled
+4546075798,Tejas Express,22119,Mumbai,Ahmedabad,4/2/2023,General,465.61,Waiting
+8473826459,Tejas Express,22119,Lucknow,Ahmedabad,11/27/2023,General,240.4,RAC
+1561753040,Rajdhani Express,12951,Bangalore,Ahmedabad,4/17/2023,Sleeper,762.98,Cancelled
+6306197475,Rajdhani Express,12951,Chennai,Ahmedabad,1/24/2024,1AC,3460.05,RAC
+2381559584,Humsafar Express,22448,Bangalore,Hyderabad,9/19/2024,General,283.41,RAC
+4602417188,Duronto Express,12245,Kolkata,Mumbai,11/23/2024,Sleeper,797.61,Cancelled
+9849123310,Humsafar Express,22448,Kolkata,Ahmedabad,3/2/2024,2AC,2317.74,RAC
+3177514743,Rajdhani Express,12951,Kolkata,Pune,4/17/2023,General,429.46,Waiting
+3401172024,Shatabdi Express,12001,Hyderabad,Mumbai,9/9/2023,Sleeper,635.43,RAC
+1708052525,Shatabdi Express,12001,Jaipur,Kolkata,12/11/2024,3AC,1186.73,RAC
+1399292468,Tejas Express,22119,Pune,Lucknow,7/20/2023,3AC,2246.8,Confirmed
+6714880948,Shatabdi Express,12001,Lucknow,Kolkata,5/6/2023,Sleeper,559.55,RAC
+4095904456,Humsafar Express,22448,Kolkata,Hyderabad,8/31/2024,General,278.48,Waiting
+2537046947,Humsafar Express,22448,Kolkata,Chennai,12/29/2023,General,338.25,Cancelled
+8228314975,Duronto Express,12245,Chennai,Ahmedabad,9/6/2024,2AC,3949.63,Waiting
+8928689307,Tejas Express,22119,Jaipur,Bangalore,4/18/2023,2AC,1634.25,Confirmed
+2137284524,Garib Rath Express,12909,Lucknow,Bangalore,6/24/2024,2AC,2825.12,Waiting
+7044481849,Tejas Express,22119,Ahmedabad,Jaipur,6/28/2024,1AC,3506.49,Waiting
+7777561466,Garib Rath Express,12909,Jaipur,Lucknow,6/1/2024,General,308.57,Cancelled
+6480145835,Rajdhani Express,12951,Pune,Jaipur,8/8/2023,Sleeper,794.59,Confirmed
+9564943877,Shatabdi Express,12001,Mumbai,Pune,5/23/2023,1AC,3444.9,Cancelled
+6483911517,Rajdhani Express,12951,Kolkata,Bangalore,3/6/2023,General,468.24,Confirmed
+6395353362,Humsafar Express,22448,Jaipur,New Delhi,7/16/2023,3AC,2263.56,Cancelled
+8682331045,Humsafar Express,22448,Jaipur,Kolkata,6/28/2023,Sleeper,643.96,Waiting
+8920079388,Tejas Express,22119,Mumbai,Pune,6/20/2023,2AC,2508.15,Cancelled
+6184628957,Tejas Express,22119,Kolkata,Lucknow,6/6/2024,2AC,3451.68,RAC
+2013570176,Humsafar Express,22448,Ahmedabad,Kolkata,10/1/2024,General,238.59,Confirmed
+1482105470,Shatabdi Express,12001,Ahmedabad,Hyderabad,6/7/2023,3AC,2189.78,Cancelled
+5478470268,Garib Rath Express,12909,Ahmedabad,New Delhi,4/14/2023,1AC,3501.26,Cancelled
+6730141785,Rajdhani Express,12951,Mumbai,Lucknow,12/5/2024,3AC,2192.42,Waiting
+3630522405,Rajdhani Express,12951,Bangalore,Ahmedabad,8/5/2024,1AC,3332.81,Cancelled
+9732011351,Rajdhani Express,12951,Ahmedabad,Pune,3/24/2023,3AC,2403.45,Confirmed
+8018511403,Garib Rath Express,12909,Hyderabad,Jaipur,1/11/2024,Sleeper,902.39,RAC
+6383633902,Humsafar Express,22448,Ahmedabad,Jaipur,1/14/2024,2AC,3196.28,Waiting
+8881675879,Tejas Express,22119,New Delhi,Lucknow,9/3/2023,3AC,2025.79,Confirmed
+7288993423,Shatabdi Express,12001,Chennai,Mumbai,3/28/2024,3AC,1675.72,RAC
+7259836330,Rajdhani Express,12951,Ahmedabad,Pune,9/3/2024,3AC,927.85,Waiting
+7488854535,Humsafar Express,22448,Hyderabad,Jaipur,4/9/2024,1AC,2561.72,RAC
+8047050444,Rajdhani Express,12951,Lucknow,Ahmedabad,4/1/2023,1AC,4525.58,RAC
+2328541908,Shatabdi Express,12001,Lucknow,Bangalore,10/7/2023,1AC,2649.73,Cancelled
+7326874728,Tejas Express,22119,Mumbai,Lucknow,7/6/2023,Sleeper,951.66,Waiting
+7189416297,Rajdhani Express,12951,Bangalore,Kolkata,10/11/2024,General,295.49,Confirmed
+6958253666,Garib Rath Express,12909,Kolkata,New Delhi,2/19/2023,1AC,3916.42,RAC
+7533727483,Shatabdi Express,12001,New Delhi,Kolkata,10/29/2023,2AC,2338.24,RAC
+7822637453,Garib Rath Express,12909,Chennai,Lucknow,9/24/2024,1AC,3590.97,Confirmed
+8473310298,Tejas Express,22119,Bangalore,Chennai,4/3/2024,2AC,2743.39,RAC
+6099454937,Duronto Express,12245,Ahmedabad,Bangalore,7/7/2023,2AC,3790.58,Waiting
+1445710301,Duronto Express,12245,Mumbai,Kolkata,5/20/2024,3AC,2317.99,RAC
+6099431080,Shatabdi Express,12001,Hyderabad,Lucknow,9/3/2024,Sleeper,440.82,Confirmed
+6878812629,Humsafar Express,22448,Mumbai,Bangalore,6/25/2023,General,266.16,Cancelled
+4099531023,Rajdhani Express,12951,Kolkata,Bangalore,4/14/2023,3AC,2377.08,Confirmed
+1524192292,Humsafar Express,22448,Bangalore,Hyderabad,11/20/2024,3AC,1388.39,RAC
+4155806200,Rajdhani Express,12951,Jaipur,Kolkata,10/22/2024,General,394.61,RAC
+3420830515,Duronto Express,12245,Chennai,Pune,7/8/2023,General,245.74,RAC
+7817870399,Tejas Express,22119,Lucknow,Jaipur,9/18/2023,1AC,4374.64,Confirmed
+8120036401,Rajdhani Express,12951,Lucknow,Jaipur,3/4/2023,1AC,4728.2,Confirmed
+1940797103,Rajdhani Express,12951,Pune,Chennai,5/22/2024,1AC,2713.85,RAC
+5419447819,Humsafar Express,22448,Jaipur,Ahmedabad,6/2/2023,Sleeper,982.68,Cancelled
+7532859716,Humsafar Express,22448,Bangalore,Mumbai,2/1/2024,3AC,891.57,RAC
+7364462724,Garib Rath Express,12909,Pune,Bangalore,6/12/2023,Sleeper,857.65,Waiting
+6567439359,Shatabdi Express,12001,Hyderabad,Jaipur,8/3/2023,Sleeper,884.19,Cancelled
+4377722212,Garib Rath Express,12909,Jaipur,Mumbai,7/20/2023,3AC,1370.78,RAC
+4910108050,Rajdhani Express,12951,Lucknow,Jaipur,5/6/2024,General,417.82,Confirmed
+9713568214,Rajdhani Express,12951,Bangalore,Hyderabad,3/23/2024,Sleeper,521.76,RAC
+9738695723,Humsafar Express,22448,Jaipur,Mumbai,10/8/2024,General,442.09,RAC
+5445633454,Humsafar Express,22448,Chennai,Bangalore,2/15/2024,2AC,1735.66,Waiting
+4480683059,Shatabdi Express,12001,Pune,Bangalore,4/17/2024,3AC,1922.6,RAC
+7976651312,Rajdhani Express,12951,Bangalore,New Delhi,3/11/2024,1AC,2980.06,Cancelled
+9112745478,Humsafar Express,22448,Hyderabad,Jaipur,3/30/2024,1AC,4004.99,Confirmed
+6271041351,Duronto Express,12245,New Delhi,Kolkata,5/11/2024,1AC,3636.4,Confirmed
+2973484631,Tejas Express,22119,Pune,Bangalore,7/9/2023,General,215.75,Cancelled
+9613920483,Tejas Express,22119,Bangalore,Lucknow,10/8/2024,Sleeper,530.97,Waiting
+7791235984,Tejas Express,22119,Mumbai,Ahmedabad,7/17/2024,Sleeper,957.85,Waiting
+4572886982,Garib Rath Express,12909,New Delhi,Bangalore,8/30/2023,Sleeper,576.34,Cancelled
+7832190273,Duronto Express,12245,Chennai,Hyderabad,8/29/2023,General,216.64,Waiting
+4636590085,Duronto Express,12245,Lucknow,Jaipur,1/11/2023,3AC,1371.52,Cancelled
+2451560640,Shatabdi Express,12001,Jaipur,Bangalore,10/6/2023,2AC,3091.32,Confirmed
+6147598820,Rajdhani Express,12951,Kolkata,Mumbai,6/2/2023,Sleeper,535.48,Cancelled
+9733252644,Rajdhani Express,12951,Kolkata,Bangalore,10/30/2023,Sleeper,790.24,Cancelled
+3195855743,Garib Rath Express,12909,Chennai,Kolkata,5/5/2024,2AC,3085.9,RAC
+3711222578,Tejas Express,22119,Hyderabad,Lucknow,3/15/2024,2AC,2291.88,Cancelled
+6465627595,Shatabdi Express,12001,Pune,Hyderabad,10/20/2024,1AC,4737.65,RAC
+4580231614,Garib Rath Express,12909,Hyderabad,Pune,5/25/2023,Sleeper,681.65,Waiting
+9217083799,Tejas Express,22119,Ahmedabad,New Delhi,2/10/2024,General,477,Waiting
+7581003011,Duronto Express,12245,Jaipur,New Delhi,4/19/2024,Sleeper,986.38,RAC
+8573048043,Rajdhani Express,12951,Mumbai,Hyderabad,4/6/2023,Sleeper,639.98,Confirmed
+7153001604,Garib Rath Express,12909,Jaipur,Pune,4/24/2024,Sleeper,821.05,Confirmed
+8857795029,Shatabdi Express,12001,Jaipur,Ahmedabad,10/15/2024,1AC,4270.77,RAC
+7339456715,Rajdhani Express,12951,Lucknow,Ahmedabad,6/28/2024,1AC,2670,Confirmed
+5665643685,Garib Rath Express,12909,Pune,Mumbai,10/30/2024,General,339.05,RAC
+8280624725,Tejas Express,22119,Ahmedabad,Kolkata,3/9/2023,Sleeper,767.96,Cancelled
+5228785952,Rajdhani Express,12951,Kolkata,Hyderabad,2/28/2024,1AC,3728.02,Waiting
+8840858821,Shatabdi Express,12001,Chennai,Ahmedabad,9/6/2024,1AC,2984.47,Waiting
+7355133661,Duronto Express,12245,Ahmedabad,Chennai,7/26/2023,3AC,1678.92,RAC
+7705825189,Tejas Express,22119,Lucknow,Mumbai,12/25/2024,2AC,2731.2,Confirmed
+9350891904,Shatabdi Express,12001,Jaipur,Kolkata,2/5/2023,3AC,2430.46,Cancelled
+8202818029,Tejas Express,22119,Chennai,Pune,12/31/2024,Sleeper,988.27,Waiting
+3699750092,Humsafar Express,22448,Hyderabad,Lucknow,8/14/2024,General,449.03,Waiting
+5892810320,Duronto Express,12245,Hyderabad,Kolkata,1/2/2023,3AC,2157.77,Confirmed
+8833069298,Humsafar Express,22448,Pune,Ahmedabad,9/20/2023,Sleeper,658.73,Confirmed
+9908737576,Rajdhani Express,12951,Jaipur,Mumbai,11/6/2023,Sleeper,596.52,RAC
+7053252036,Duronto Express,12245,Jaipur,Kolkata,11/15/2023,2AC,2519.86,RAC
+6562163032,Rajdhani Express,12951,New Delhi,Pune,1/20/2023,3AC,1219.95,RAC
+1388125874,Garib Rath Express,12909,Lucknow,Mumbai,4/23/2023,3AC,1959.05,RAC
+6430851436,Tejas Express,22119,Hyderabad,Bangalore,9/15/2024,Sleeper,807.03,Confirmed
+3276589006,Rajdhani Express,12951,Kolkata,Pune,5/8/2024,1AC,4368.05,Waiting
+4964702085,Shatabdi Express,12001,Bangalore,Pune,6/17/2023,1AC,4621.46,Waiting
+7673708549,Shatabdi Express,12001,Ahmedabad,Pune,6/17/2024,2AC,2264.14,Cancelled
+5938847474,Garib Rath Express,12909,Chennai,Lucknow,2/5/2023,Sleeper,410.6,RAC
+5122739160,Garib Rath Express,12909,Kolkata,Lucknow,12/31/2024,3AC,1060.41,RAC
+1796654980,Humsafar Express,22448,Chennai,Lucknow,1/24/2024,General,202.01,Confirmed
+7994775566,Tejas Express,22119,Hyderabad,Chennai,6/29/2023,2AC,3736.42,RAC
+2561461238,Garib Rath Express,12909,Chennai,Ahmedabad,10/4/2024,Sleeper,690.04,Cancelled
+8609766119,Tejas Express,22119,Mumbai,Jaipur,7/21/2024,2AC,2268.88,Cancelled
+6920826559,Duronto Express,12245,Hyderabad,Mumbai,5/7/2024,2AC,1969.96,Cancelled
+8710222454,Duronto Express,12245,Lucknow,Pune,12/19/2023,2AC,3109.15,RAC
+6994746502,Humsafar Express,22448,Kolkata,Ahmedabad,1/22/2024,Sleeper,587.64,Confirmed
+4086897963,Shatabdi Express,12001,Jaipur,Bangalore,8/22/2024,2AC,3125.6,Confirmed
+8372991775,Rajdhani Express,12951,Hyderabad,Lucknow,8/4/2024,2AC,2561.21,Cancelled
+2623213076,Duronto Express,12245,Mumbai,Kolkata,7/29/2024,General,349.63,Cancelled
+2143203597,Garib Rath Express,12909,Hyderabad,Ahmedabad,8/12/2023,3AC,1409.65,Cancelled
+5502706778,Humsafar Express,22448,Mumbai,Ahmedabad,9/21/2024,General,495.45,Waiting
+6081025544,Duronto Express,12245,Lucknow,New Delhi,6/5/2023,3AC,2126.12,RAC
+9403713304,Humsafar Express,22448,Lucknow,Pune,12/24/2023,Sleeper,740.4,RAC
+2884040811,Humsafar Express,22448,Hyderabad,Kolkata,1/17/2023,1AC,2549.22,Waiting
+6569783127,Shatabdi Express,12001,Lucknow,Jaipur,7/14/2024,3AC,1688.83,Cancelled
+2481399488,Duronto Express,12245,New Delhi,Bangalore,11/26/2024,General,249.8,Confirmed
+2657181638,Garib Rath Express,12909,Hyderabad,Bangalore,8/31/2023,Sleeper,773.19,Cancelled
+1549889741,Garib Rath Express,12909,Bangalore,Chennai,1/31/2023,General,486.74,Cancelled
+6313534229,Duronto Express,12245,Ahmedabad,New Delhi,8/11/2023,3AC,889.89,Cancelled
+1489112592,Duronto Express,12245,Ahmedabad,Jaipur,8/5/2024,Sleeper,611.19,Cancelled
+8296300597,Shatabdi Express,12001,Chennai,Bangalore,3/4/2024,Sleeper,875.09,Confirmed
+7142085197,Rajdhani Express,12951,Jaipur,Chennai,4/3/2024,2AC,3209.13,Waiting
+2141227598,Garib Rath Express,12909,Pune,Mumbai,7/14/2024,3AC,1029.51,Waiting
+8933915773,Shatabdi Express,12001,Bangalore,New Delhi,9/27/2023,3AC,2461.56,Waiting
+1165068151,Rajdhani Express,12951,New Delhi,Mumbai,4/17/2024,General,332.51,RAC
+6206637612,Duronto Express,12245,Pune,New Delhi,1/14/2023,General,284.1,Confirmed
+3874562693,Rajdhani Express,12951,Chennai,Hyderabad,2/25/2023,2AC,3292.58,Confirmed
+1880974248,Humsafar Express,22448,Lucknow,Chennai,5/16/2024,2AC,2343.96,Waiting
+8902324610,Rajdhani Express,12951,Chennai,Lucknow,5/18/2023,1AC,2862.06,Cancelled
+1086819200,Humsafar Express,22448,New Delhi,Lucknow,2/27/2023,Sleeper,532.08,RAC
+2533751763,Rajdhani Express,12951,Pune,New Delhi,2/9/2023,2AC,3644.32,Waiting
+6311224407,Duronto Express,12245,Chennai,Jaipur,12/15/2024,Sleeper,710.95,Cancelled
+2874242281,Garib Rath Express,12909,Pune,Kolkata,8/1/2024,2AC,3904.31,RAC
+7144331444,Tejas Express,22119,Bangalore,Pune,1/3/2023,General,307.81,RAC
+8520700264,Duronto Express,12245,Bangalore,New Delhi,5/28/2024,General,272.44,RAC
+1758026223,Duronto Express,12245,Bangalore,Hyderabad,3/19/2023,1AC,3061.08,RAC
+8475883377,Shatabdi Express,12001,Kolkata,Lucknow,11/28/2024,General,324.87,RAC
+8703575619,Shatabdi Express,12001,Kolkata,Hyderabad,12/6/2023,1AC,3166.35,Cancelled
+2800520058,Garib Rath Express,12909,Lucknow,Pune,9/21/2024,General,448.43,Confirmed
+3603936767,Garib Rath Express,12909,Ahmedabad,Hyderabad,9/30/2023,3AC,1165.55,Confirmed
+1986644907,Rajdhani Express,12951,Ahmedabad,Pune,7/14/2023,3AC,1179.32,Cancelled
+9400017387,Shatabdi Express,12001,Hyderabad,Chennai,11/13/2023,2AC,3567.03,Waiting
+3713352945,Shatabdi Express,12001,New Delhi,Kolkata,7/20/2023,3AC,1581.46,Waiting
+4578498155,Humsafar Express,22448,Lucknow,Bangalore,11/20/2024,1AC,4183.23,Cancelled
+1873904112,Garib Rath Express,12909,Hyderabad,Chennai,9/1/2024,1AC,3555.56,Confirmed
+9936394776,Tejas Express,22119,Kolkata,Lucknow,10/17/2023,3AC,2163.88,Cancelled
+5070125587,Rajdhani Express,12951,Kolkata,Chennai,5/5/2023,General,217.63,Confirmed
+8270490591,Rajdhani Express,12951,Mumbai,Kolkata,12/26/2023,General,423.81,Cancelled
+3102003409,Garib Rath Express,12909,Jaipur,Lucknow,1/21/2024,1AC,4403.35,RAC
+3755463595,Humsafar Express,22448,Jaipur,Pune,6/18/2023,1AC,3098.79,Waiting
+6532044773,Tejas Express,22119,Bangalore,New Delhi,9/3/2023,1AC,3024.01,Cancelled
+9037258487,Garib Rath Express,12909,New Delhi,Hyderabad,1/17/2023,2AC,1713.57,RAC
+6478856400,Humsafar Express,22448,Mumbai,Bangalore,7/14/2023,Sleeper,777.77,Cancelled
+7250550266,Tejas Express,22119,Ahmedabad,Pune,7/24/2023,Sleeper,534.68,RAC
+5394085174,Garib Rath Express,12909,New Delhi,Lucknow,5/9/2024,3AC,2328.84,RAC
+7459112278,Humsafar Express,22448,Pune,Mumbai,4/26/2023,General,253.55,Confirmed
+8455249353,Humsafar Express,22448,Pune,Bangalore,4/15/2023,1AC,4338.37,Waiting
+2796580540,Duronto Express,12245,Ahmedabad,New Delhi,11/18/2024,2AC,2713.28,Waiting
+1759278171,Humsafar Express,22448,Chennai,Ahmedabad,8/20/2024,Sleeper,589.89,Confirmed
+3695369919,Shatabdi Express,12001,New Delhi,Bangalore,12/20/2024,Sleeper,618.11,Waiting
+6593402432,Shatabdi Express,12001,Kolkata,Pune,9/20/2023,1AC,3425.61,Waiting
+9329415224,Humsafar Express,22448,Pune,New Delhi,1/26/2023,2AC,3147.63,Confirmed
+6256784811,Rajdhani Express,12951,Mumbai,Hyderabad,7/18/2024,Sleeper,805.35,RAC
+1732088448,Duronto Express,12245,Kolkata,Jaipur,9/11/2024,1AC,3856.63,Confirmed
+4046768082,Duronto Express,12245,Lucknow,Pune,5/27/2023,2AC,3457.22,Cancelled
+3541649384,Shatabdi Express,12001,Jaipur,Ahmedabad,2/21/2023,1AC,4359.34,Cancelled
+6103959131,Garib Rath Express,12909,Kolkata,Hyderabad,12/3/2024,3AC,1167.55,Confirmed
+7946343458,Duronto Express,12245,Pune,Ahmedabad,11/21/2023,Sleeper,612.81,Confirmed
+2431780182,Humsafar Express,22448,Jaipur,Mumbai,9/6/2023,Sleeper,775.52,Confirmed
+8585502967,Duronto Express,12245,Hyderabad,New Delhi,11/2/2024,General,270.63,RAC
+3899846945,Humsafar Express,22448,Jaipur,Bangalore,1/5/2024,3AC,1180.04,Waiting
+7024683593,Shatabdi Express,12001,New Delhi,Mumbai,8/26/2023,General,201.8,Waiting
+2432551046,Duronto Express,12245,Ahmedabad,Kolkata,2/29/2024,1AC,2523.1,Confirmed
+1154048492,Duronto Express,12245,Bangalore,Ahmedabad,6/21/2024,1AC,4848.05,Confirmed
+2104071883,Humsafar Express,22448,Jaipur,Ahmedabad,12/11/2023,2AC,3591.01,Cancelled
+4609389185,Humsafar Express,22448,Ahmedabad,New Delhi,2/23/2024,3AC,1194.81,Confirmed
+3179159117,Garib Rath Express,12909,New Delhi,Ahmedabad,2/21/2024,1AC,2558.62,RAC
+5102489735,Humsafar Express,22448,Hyderabad,Jaipur,6/9/2024,Sleeper,601.23,Confirmed
+8695192489,Humsafar Express,22448,Jaipur,New Delhi,9/14/2024,General,348.77,Confirmed
+8457303616,Rajdhani Express,12951,Jaipur,Bangalore,12/14/2024,General,468.48,RAC
+4555403768,Garib Rath Express,12909,Mumbai,Ahmedabad,4/4/2024,1AC,2776.68,RAC
+3551571781,Duronto Express,12245,New Delhi,Bangalore,5/25/2024,General,272.37,Waiting
+7744979375,Shatabdi Express,12001,Kolkata,Ahmedabad,5/12/2023,General,374.53,Cancelled
+7009740890,Garib Rath Express,12909,Kolkata,Mumbai,2/2/2024,3AC,1701.46,RAC
+5050275465,Tejas Express,22119,Hyderabad,Mumbai,3/8/2024,2AC,1570.66,Cancelled
+6741130197,Garib Rath Express,12909,Chennai,Pune,11/24/2023,Sleeper,426.97,Confirmed
+7225078710,Tejas Express,22119,Pune,Hyderabad,12/17/2024,2AC,3192.75,Cancelled
+3396383273,Duronto Express,12245,New Delhi,Ahmedabad,12/12/2023,2AC,1502.37,Waiting
+7391365968,Shatabdi Express,12001,Bangalore,Mumbai,3/14/2024,Sleeper,737.26,Waiting
+7862259508,Tejas Express,22119,Pune,Chennai,10/14/2023,1AC,4227.27,RAC
+2234215469,Shatabdi Express,12001,Pune,Lucknow,11/4/2023,2AC,1709.05,Confirmed
+2582556211,Duronto Express,12245,Pune,Bangalore,1/18/2024,Sleeper,944.67,Waiting
+3305883226,Humsafar Express,22448,Mumbai,New Delhi,8/7/2023,3AC,804.04,RAC
+3779128956,Tejas Express,22119,Ahmedabad,Bangalore,3/31/2023,General,217.27,RAC
+2822106612,Humsafar Express,22448,Pune,Bangalore,9/15/2024,Sleeper,907.08,Cancelled
+2784079647,Humsafar Express,22448,Kolkata,Mumbai,12/30/2024,3AC,1911.04,Confirmed
+5116163247,Tejas Express,22119,Chennai,Kolkata,7/12/2023,2AC,2192.8,Confirmed
+9684263687,Rajdhani Express,12951,Lucknow,Mumbai,4/22/2023,General,243.49,Confirmed
+6729773654,Garib Rath Express,12909,Pune,Bangalore,8/8/2023,General,305.49,Confirmed
+9329479448,Shatabdi Express,12001,Jaipur,Hyderabad,1/21/2024,General,225.96,Confirmed
+5816688198,Duronto Express,12245,Mumbai,Chennai,7/17/2023,1AC,4363.58,Cancelled
+1139402347,Humsafar Express,22448,New Delhi,Lucknow,9/6/2023,Sleeper,817.12,RAC
+9183483624,Rajdhani Express,12951,Lucknow,Hyderabad,9/27/2024,1AC,3937.75,Confirmed
+2245603146,Tejas Express,22119,Chennai,Jaipur,8/21/2024,1AC,2984.41,Confirmed
+1543335292,Humsafar Express,22448,Bangalore,New Delhi,3/11/2024,Sleeper,927.34,RAC
+6338752878,Duronto Express,12245,Lucknow,Kolkata,9/2/2023,3AC,2239,Waiting
+6383826247,Humsafar Express,22448,Pune,Kolkata,10/22/2024,3AC,1597.87,RAC
+7186678523,Duronto Express,12245,Jaipur,Mumbai,5/10/2023,1AC,2668.44,Confirmed
+1660430199,Duronto Express,12245,Lucknow,Bangalore,8/29/2023,2AC,2834.97,RAC
+8825989830,Shatabdi Express,12001,Mumbai,Ahmedabad,1/16/2024,1AC,2924.73,Waiting
+1657613030,Shatabdi Express,12001,Pune,New Delhi,1/25/2024,Sleeper,807.34,Confirmed
+4640716278,Humsafar Express,22448,Chennai,Jaipur,6/28/2023,Sleeper,640.28,Cancelled
+5963239725,Tejas Express,22119,Pune,Mumbai,10/8/2023,Sleeper,932.32,RAC
+8160207031,Humsafar Express,22448,Lucknow,Bangalore,3/30/2023,3AC,2024.24,Waiting
+3128658938,Humsafar Express,22448,Ahmedabad,Chennai,6/9/2024,1AC,3929.76,Waiting
+7490929527,Rajdhani Express,12951,Lucknow,Ahmedabad,1/4/2023,3AC,1454.42,Cancelled
+9135318541,Rajdhani Express,12951,Chennai,Bangalore,5/7/2024,2AC,2956.19,Confirmed
+5998225691,Rajdhani Express,12951,Kolkata,Jaipur,2/15/2023,1AC,4369.98,Waiting
+4036976931,Garib Rath Express,12909,Ahmedabad,Pune,12/16/2024,1AC,4416.61,Cancelled
+1899559688,Shatabdi Express,12001,New Delhi,Bangalore,10/10/2024,2AC,1886.32,Cancelled
+2300755321,Tejas Express,22119,New Delhi,Ahmedabad,5/3/2023,Sleeper,716.18,RAC
+2834844583,Garib Rath Express,12909,Bangalore,Ahmedabad,8/22/2024,2AC,2050.88,RAC
+2274330908,Humsafar Express,22448,New Delhi,Ahmedabad,12/16/2024,1AC,3422.26,RAC
+2751582275,Shatabdi Express,12001,Chennai,Lucknow,7/8/2023,2AC,1884.21,Cancelled
+5582686123,Rajdhani Express,12951,Pune,Ahmedabad,12/8/2023,Sleeper,554.32,Waiting
+8976313557,Rajdhani Express,12951,Hyderabad,Mumbai,8/13/2024,Sleeper,476.58,Waiting
+4139011458,Duronto Express,12245,Hyderabad,Kolkata,5/20/2023,3AC,1581.55,RAC
+2926410147,Garib Rath Express,12909,New Delhi,Jaipur,11/14/2024,1AC,3054.93,RAC
+7468423194,Shatabdi Express,12001,Jaipur,Ahmedabad,2/15/2024,2AC,3996.09,Waiting
+6761297249,Tejas Express,22119,Ahmedabad,Jaipur,1/14/2024,3AC,2134.66,Confirmed
+3424890062,Garib Rath Express,12909,Jaipur,Hyderabad,1/4/2023,1AC,3842.43,Cancelled
+3558585807,Tejas Express,22119,Hyderabad,Kolkata,2/2/2024,3AC,2205.99,Waiting
+6524092288,Humsafar Express,22448,Mumbai,Chennai,10/2/2023,Sleeper,460.39,Cancelled
+4531514218,Rajdhani Express,12951,Chennai,Pune,4/1/2023,Sleeper,482.05,Waiting
+2675558577,Shatabdi Express,12001,Jaipur,Lucknow,6/29/2024,General,256.46,Waiting
+8327183617,Duronto Express,12245,Chennai,Bangalore,1/1/2023,Sleeper,569.63,Waiting
+1350970781,Duronto Express,12245,Bangalore,Mumbai,12/21/2023,2AC,2936.74,Cancelled
+7652725996,Duronto Express,12245,New Delhi,Lucknow,5/11/2023,3AC,1434.59,Cancelled
+6246857135,Duronto Express,12245,Hyderabad,Bangalore,6/28/2023,3AC,2073.65,RAC
+2166672479,Garib Rath Express,12909,Ahmedabad,Bangalore,11/10/2024,2AC,2178.63,Cancelled
+1412445557,Rajdhani Express,12951,Ahmedabad,Kolkata,10/2/2023,2AC,1642.56,Waiting
+2414049983,Humsafar Express,22448,Bangalore,Mumbai,12/4/2024,1AC,3256.42,Cancelled
+8711163219,Tejas Express,22119,Ahmedabad,Pune,6/19/2023,2AC,2318.62,RAC
+9487056092,Rajdhani Express,12951,Pune,Ahmedabad,11/1/2024,Sleeper,463.75,RAC
+9021910010,Rajdhani Express,12951,Chennai,Ahmedabad,8/22/2023,3AC,867.56,Cancelled
+7345618719,Shatabdi Express,12001,Lucknow,Mumbai,8/19/2024,General,258.06,Waiting
+3223005540,Humsafar Express,22448,Hyderabad,Pune,6/19/2024,General,210.67,Cancelled
+5404291894,Humsafar Express,22448,Bangalore,New Delhi,2/3/2024,General,240.73,Confirmed
+6804732542,Rajdhani Express,12951,Mumbai,New Delhi,4/28/2024,General,385.11,RAC
+7019096339,Humsafar Express,22448,Hyderabad,Kolkata,11/5/2024,Sleeper,422.09,RAC
+6583435127,Duronto Express,12245,Pune,Mumbai,9/17/2023,Sleeper,602.76,Cancelled
+2780154435,Tejas Express,22119,Kolkata,Ahmedabad,5/23/2023,1AC,4789.98,Waiting
+9364284177,Shatabdi Express,12001,Bangalore,Chennai,5/12/2023,1AC,3633.5,RAC
+5640985572,Shatabdi Express,12001,Mumbai,Lucknow,4/9/2023,Sleeper,455.03,Confirmed
+9278623298,Tejas Express,22119,Mumbai,Chennai,1/4/2023,3AC,966.59,Cancelled
+1268932556,Rajdhani Express,12951,Hyderabad,Chennai,1/21/2024,Sleeper,772.03,RAC
+6426790391,Tejas Express,22119,Jaipur,Kolkata,5/6/2023,1AC,4788.37,Cancelled
+7584174623,Humsafar Express,22448,Ahmedabad,New Delhi,5/3/2024,3AC,1360.78,Cancelled
+1689822260,Rajdhani Express,12951,Kolkata,Mumbai,4/3/2024,1AC,4254.74,Confirmed
+2389285926,Garib Rath Express,12909,New Delhi,Jaipur,9/13/2023,Sleeper,967.2,Cancelled
+6473372300,Duronto Express,12245,Pune,Jaipur,7/11/2024,2AC,2146.89,RAC
+9602824996,Shatabdi Express,12001,Hyderabad,Bangalore,2/1/2024,Sleeper,444.88,RAC
+4744080076,Humsafar Express,22448,Mumbai,Jaipur,6/12/2023,Sleeper,956.64,Cancelled
+6065306842,Shatabdi Express,12001,Kolkata,Bangalore,8/28/2024,2AC,3900.69,Cancelled
+9382374385,Rajdhani Express,12951,Pune,Mumbai,3/12/2024,1AC,4529.76,Cancelled
+8271419686,Shatabdi Express,12001,Bangalore,Ahmedabad,4/22/2024,Sleeper,903.49,Waiting
+6341136998,Duronto Express,12245,Hyderabad,Lucknow,4/25/2024,Sleeper,733.69,RAC
+6366515947,Humsafar Express,22448,Chennai,New Delhi,12/4/2023,General,480.64,Cancelled
+3230951311,Shatabdi Express,12001,Pune,New Delhi,9/12/2024,Sleeper,872.47,Cancelled
+7163892108,Rajdhani Express,12951,Bangalore,Kolkata,1/17/2024,3AC,1856.3,RAC
+5709142641,Garib Rath Express,12909,Lucknow,Mumbai,8/18/2023,Sleeper,580.3,Cancelled
+3055925424,Rajdhani Express,12951,Kolkata,Chennai,8/19/2024,1AC,3771.5,RAC
+6693124666,Tejas Express,22119,Ahmedabad,Chennai,3/5/2024,2AC,2814.09,Waiting
+6728875955,Duronto Express,12245,Mumbai,Jaipur,4/8/2024,Sleeper,601.94,Cancelled
+2276167140,Duronto Express,12245,Lucknow,Bangalore,12/14/2023,General,297.6,Cancelled
+7008545081,Humsafar Express,22448,Kolkata,New Delhi,11/4/2023,1AC,3715.85,Confirmed
+7668479248,Garib Rath Express,12909,Lucknow,New Delhi,5/2/2024,General,257.81,Cancelled
+6501813255,Shatabdi Express,12001,Bangalore,New Delhi,5/13/2024,3AC,2015.35,Cancelled
+1433903024,Humsafar Express,22448,Jaipur,Kolkata,8/4/2023,Sleeper,493.69,Cancelled
+6838209889,Tejas Express,22119,Jaipur,Chennai,12/13/2024,3AC,1800.26,Confirmed
+5642174383,Tejas Express,22119,Hyderabad,Ahmedabad,9/14/2023,Sleeper,899.37,Waiting
+5099358818,Shatabdi Express,12001,New Delhi,Mumbai,6/3/2023,2AC,3635.07,RAC
+8043949699,Garib Rath Express,12909,Lucknow,Chennai,12/14/2024,1AC,3332.34,Confirmed
+1029629992,Duronto Express,12245,Mumbai,Lucknow,11/30/2024,1AC,3883.17,Cancelled
+5856040796,Garib Rath Express,12909,Kolkata,Chennai,2/26/2023,General,398.14,Confirmed
+8578345610,Tejas Express,22119,Kolkata,Mumbai,10/7/2023,General,446.33,RAC
+3729081348,Duronto Express,12245,Jaipur,Lucknow,7/19/2024,1AC,4893.15,Cancelled
+9420829294,Duronto Express,12245,Chennai,Ahmedabad,11/26/2024,General,312.89,Waiting
+1278326911,Garib Rath Express,12909,Hyderabad,New Delhi,1/1/2023,General,435.49,Cancelled
+1122155114,Duronto Express,12245,Hyderabad,Kolkata,12/9/2023,2AC,2378.52,Cancelled
+9804135822,Rajdhani Express,12951,Jaipur,New Delhi,6/16/2024,2AC,1512.12,RAC
+9969221183,Shatabdi Express,12001,New Delhi,Kolkata,2/14/2024,1AC,3607.82,RAC
+3130762153,Tejas Express,22119,Ahmedabad,Chennai,10/11/2023,1AC,2884.04,Cancelled
+4984572777,Tejas Express,22119,Ahmedabad,Mumbai,1/8/2023,General,481.8,Cancelled
+7173623230,Humsafar Express,22448,Jaipur,New Delhi,1/12/2023,1AC,3972.14,Confirmed
+7151153485,Garib Rath Express,12909,Pune,Lucknow,3/31/2023,Sleeper,750.65,Waiting
+5249459137,Garib Rath Express,12909,Mumbai,New Delhi,10/23/2023,General,442.88,Cancelled
+9168235707,Tejas Express,22119,New Delhi,Jaipur,5/4/2024,1AC,4144.68,Waiting
+7963657342,Humsafar Express,22448,Bangalore,Mumbai,9/1/2023,General,385.93,RAC
+5773277284,Garib Rath Express,12909,Mumbai,Kolkata,3/4/2023,3AC,2032.64,RAC
+6591880998,Garib Rath Express,12909,Pune,Lucknow,4/23/2023,2AC,2353.11,Waiting
+4720287985,Rajdhani Express,12951,Jaipur,Mumbai,1/29/2023,General,436.35,Confirmed
+7811333363,Duronto Express,12245,Lucknow,Chennai,6/11/2023,3AC,1411.15,RAC
+9325855633,Shatabdi Express,12001,Kolkata,Hyderabad,1/9/2024,Sleeper,952.72,Cancelled
+5470310631,Humsafar Express,22448,Mumbai,Bangalore,7/29/2024,Sleeper,933.61,Waiting
+3938322790,Duronto Express,12245,Hyderabad,Ahmedabad,10/14/2024,3AC,2257.24,Cancelled
+8081256732,Garib Rath Express,12909,Chennai,Hyderabad,1/22/2023,3AC,1155.39,Cancelled
+5564189461,Shatabdi Express,12001,Kolkata,Pune,7/13/2023,2AC,2673.46,Confirmed
+4653939902,Garib Rath Express,12909,Ahmedabad,Mumbai,11/14/2023,General,294.64,Cancelled
+9065183143,Duronto Express,12245,Kolkata,New Delhi,11/18/2023,Sleeper,639.38,Cancelled
+6976918764,Duronto Express,12245,Lucknow,Ahmedabad,7/21/2023,2AC,1722.74,Confirmed
+1385607694,Humsafar Express,22448,Kolkata,Hyderabad,1/12/2024,Sleeper,665.88,Waiting
+8050156308,Rajdhani Express,12951,Pune,Chennai,4/22/2024,3AC,1764.02,Confirmed
+2934634684,Duronto Express,12245,Chennai,Bangalore,2/14/2023,2AC,3752.75,Waiting
+3743557307,Duronto Express,12245,Chennai,Lucknow,4/11/2024,2AC,2294.46,Confirmed
+3186794405,Rajdhani Express,12951,Mumbai,New Delhi,5/12/2023,3AC,2140.3,Waiting
+2497473878,Duronto Express,12245,Pune,Hyderabad,11/25/2023,3AC,1002.07,RAC
+1571465915,Garib Rath Express,12909,Jaipur,Kolkata,8/31/2024,3AC,2417.21,RAC
+2461987025,Humsafar Express,22448,Chennai,Lucknow,4/14/2023,Sleeper,604.53,Waiting
+2745016390,Garib Rath Express,12909,Jaipur,Chennai,2/27/2023,General,398.81,Waiting
+4282986517,Tejas Express,22119,Jaipur,Pune,1/21/2023,2AC,3341.93,Waiting
+1491982502,Shatabdi Express,12001,New Delhi,Mumbai,7/29/2024,Sleeper,412.55,Confirmed
+7015798719,Shatabdi Express,12001,Kolkata,Lucknow,8/24/2023,3AC,1334.12,Confirmed
+1319622999,Shatabdi Express,12001,Hyderabad,Ahmedabad,9/5/2024,3AC,1109.43,Cancelled
+1612907104,Tejas Express,22119,New Delhi,Lucknow,1/16/2024,General,260.35,RAC
+1004393117,Rajdhani Express,12951,Kolkata,Mumbai,2/7/2023,Sleeper,523.78,RAC
+2843020661,Humsafar Express,22448,New Delhi,Kolkata,9/26/2024,1AC,3074.35,Confirmed
+3149177522,Rajdhani Express,12951,New Delhi,Jaipur,9/24/2024,3AC,1608.43,Waiting
+9481701592,Shatabdi Express,12001,Jaipur,Ahmedabad,3/12/2024,Sleeper,992.76,Confirmed
+8285093458,Garib Rath Express,12909,New Delhi,Lucknow,8/28/2023,1AC,2846.25,Waiting
+8793840679,Humsafar Express,22448,Bangalore,Pune,10/21/2024,1AC,3853.74,RAC
+9261355016,Humsafar Express,22448,New Delhi,Ahmedabad,4/5/2024,1AC,2756.8,Confirmed
+2812895570,Shatabdi Express,12001,New Delhi,Bangalore,5/29/2023,3AC,2460.09,Cancelled
+5091420645,Humsafar Express,22448,Hyderabad,Ahmedabad,11/15/2024,2AC,3735.52,Cancelled
+1651259069,Tejas Express,22119,Pune,Kolkata,3/6/2024,1AC,2952.63,RAC
+1949067504,Duronto Express,12245,New Delhi,Pune,4/1/2023,Sleeper,963.32,Waiting
+6514432099,Shatabdi Express,12001,Hyderabad,Pune,8/7/2024,2AC,2914.87,RAC
+2437399932,Duronto Express,12245,Kolkata,Pune,5/24/2023,3AC,808.97,Waiting
+9941511502,Garib Rath Express,12909,Hyderabad,Ahmedabad,7/1/2024,General,361.92,Waiting
+6663326805,Duronto Express,12245,New Delhi,Pune,3/18/2023,General,479.85,Cancelled
+7701678728,Humsafar Express,22448,Chennai,Ahmedabad,1/14/2023,1AC,3934.91,Waiting
+3183907929,Rajdhani Express,12951,Kolkata,Bangalore,1/6/2023,1AC,4995.08,Confirmed
+3265046291,Garib Rath Express,12909,Ahmedabad,New Delhi,2/3/2024,General,385.08,RAC
+4552620963,Tejas Express,22119,Lucknow,Bangalore,9/9/2024,1AC,4901.64,Waiting
+5589951198,Humsafar Express,22448,Jaipur,Lucknow,2/8/2023,1AC,2809.02,RAC
+8461208724,Humsafar Express,22448,Chennai,Lucknow,2/20/2024,1AC,2989.12,Confirmed
+8106515424,Duronto Express,12245,Hyderabad,Bangalore,3/31/2024,Sleeper,999.22,RAC
+3669681157,Rajdhani Express,12951,Lucknow,Mumbai,2/16/2023,Sleeper,555.56,Confirmed
+3622512259,Shatabdi Express,12001,Kolkata,Jaipur,6/28/2024,Sleeper,560.74,RAC
+7012122443,Duronto Express,12245,Chennai,Lucknow,3/4/2024,1AC,3255.96,RAC
+9449015154,Garib Rath Express,12909,Chennai,Pune,7/17/2023,General,435.99,Waiting
+7831661534,Humsafar Express,22448,Pune,Mumbai,1/29/2023,2AC,3324.6,RAC
+5803846654,Tejas Express,22119,Hyderabad,New Delhi,10/7/2023,2AC,1508.99,Waiting
+5974006336,Garib Rath Express,12909,Mumbai,Bangalore,4/23/2023,2AC,1593.69,Waiting
+4157551678,Rajdhani Express,12951,Mumbai,Lucknow,1/9/2023,3AC,1576.41,Confirmed
+8348884712,Humsafar Express,22448,Mumbai,Ahmedabad,1/12/2023,General,297.06,RAC
+4960174719,Tejas Express,22119,Kolkata,Jaipur,10/7/2024,Sleeper,658.21,Confirmed
+6205543585,Rajdhani Express,12951,Hyderabad,Lucknow,2/8/2024,3AC,2246.03,Cancelled
+3450220469,Duronto Express,12245,Ahmedabad,New Delhi,12/28/2023,3AC,1015.82,Confirmed
+2983245323,Shatabdi Express,12001,Mumbai,Bangalore,3/17/2024,General,482.55,Cancelled
+1563087381,Humsafar Express,22448,Hyderabad,Jaipur,3/2/2023,General,263.69,RAC
+1448822261,Duronto Express,12245,Chennai,Mumbai,7/15/2023,Sleeper,956.09,Cancelled
+3856846961,Tejas Express,22119,Chennai,New Delhi,3/7/2024,3AC,1735.33,Confirmed
+9854686625,Rajdhani Express,12951,Pune,Lucknow,1/24/2024,2AC,2066.11,Waiting
+4262517866,Rajdhani Express,12951,Hyderabad,Kolkata,10/10/2024,1AC,4792.6,Cancelled
+6052757026,Tejas Express,22119,Lucknow,Kolkata,10/12/2023,3AC,2118.49,Waiting
+1012911149,Duronto Express,12245,Kolkata,Lucknow,5/4/2024,1AC,2922.65,Waiting
+3187960040,Duronto Express,12245,Kolkata,Chennai,3/28/2023,2AC,2307.94,RAC
+9320717614,Garib Rath Express,12909,Mumbai,Chennai,7/6/2023,1AC,4312.76,RAC
+3482451701,Rajdhani Express,12951,Lucknow,Kolkata,10/26/2023,General,217.07,RAC
+4280588351,Rajdhani Express,12951,Mumbai,Hyderabad,10/27/2023,3AC,2026.55,Waiting
+7835218078,Humsafar Express,22448,New Delhi,Hyderabad,5/26/2023,General,403.83,Waiting
+1252361816,Humsafar Express,22448,New Delhi,Chennai,9/20/2024,1AC,4673.4,Waiting
+6483608555,Tejas Express,22119,Bangalore,Ahmedabad,3/11/2024,1AC,3030.42,RAC
+5229725708,Tejas Express,22119,New Delhi,Hyderabad,5/5/2024,2AC,2143.12,Confirmed
+6371221063,Garib Rath Express,12909,Kolkata,Hyderabad,4/30/2023,Sleeper,893.04,RAC
+9440122453,Tejas Express,22119,Kolkata,New Delhi,4/12/2023,Sleeper,433.68,Waiting
+4836872775,Humsafar Express,22448,Mumbai,Lucknow,5/23/2023,General,410.58,Waiting
+7688182453,Garib Rath Express,12909,Lucknow,New Delhi,4/9/2024,Sleeper,697.81,Confirmed
+7614525183,Rajdhani Express,12951,Lucknow,Ahmedabad,8/19/2023,General,244.68,Cancelled
+9097412907,Duronto Express,12245,Lucknow,Bangalore,2/24/2024,2AC,3873.22,Confirmed
+3187501288,Rajdhani Express,12951,Ahmedabad,Chennai,12/25/2023,Sleeper,484.19,Waiting
+7573346222,Tejas Express,22119,Chennai,Ahmedabad,7/12/2023,3AC,1781.41,Confirmed
+8371079311,Duronto Express,12245,Ahmedabad,Bangalore,3/16/2024,General,281.07,Confirmed
+6933336374,Shatabdi Express,12001,Pune,Hyderabad,2/26/2024,Sleeper,757.31,Cancelled
+1322078038,Garib Rath Express,12909,Chennai,Ahmedabad,1/31/2024,3AC,920.66,RAC
+2983045896,Rajdhani Express,12951,Lucknow,Chennai,2/8/2023,3AC,1913.56,RAC
+9053132864,Tejas Express,22119,Kolkata,Pune,2/7/2024,General,495.77,Cancelled
+7402073778,Duronto Express,12245,Hyderabad,Bangalore,5/11/2023,General,205.82,Cancelled
+6639246251,Humsafar Express,22448,Bangalore,Lucknow,4/11/2024,Sleeper,615.24,Waiting
+5113073689,Rajdhani Express,12951,Lucknow,Chennai,3/30/2023,1AC,2670.06,Waiting
+8484377048,Humsafar Express,22448,Mumbai,Chennai,7/5/2024,General,425.65,RAC
+8983334855,Rajdhani Express,12951,Lucknow,Pune,11/1/2024,3AC,920.08,Confirmed
+6110756242,Tejas Express,22119,Chennai,Ahmedabad,12/10/2024,Sleeper,693.17,Waiting
+1470122358,Humsafar Express,22448,Ahmedabad,Lucknow,6/20/2024,Sleeper,842.24,RAC
+4171587148,Rajdhani Express,12951,Kolkata,Bangalore,8/12/2024,2AC,3650.78,Cancelled
+7702065638,Duronto Express,12245,Chennai,Bangalore,7/21/2024,Sleeper,937.67,Cancelled
+1956145627,Shatabdi Express,12001,Chennai,Ahmedabad,9/11/2024,3AC,828.09,Cancelled
+5854739734,Duronto Express,12245,Ahmedabad,Kolkata,7/28/2023,General,347.01,Confirmed
+3029738150,Tejas Express,22119,Kolkata,Bangalore,7/18/2023,1AC,3683.76,RAC
+9866197249,Rajdhani Express,12951,Pune,Ahmedabad,1/8/2024,1AC,3759.53,RAC
+5118183014,Shatabdi Express,12001,Kolkata,Chennai,10/2/2023,Sleeper,733.64,Confirmed
+9173740194,Humsafar Express,22448,Jaipur,Hyderabad,8/27/2023,3AC,2355.74,Waiting
+8679895161,Duronto Express,12245,Hyderabad,Ahmedabad,11/3/2024,Sleeper,871.72,Waiting
+1424004317,Duronto Express,12245,Pune,Lucknow,2/28/2024,General,327.43,Waiting
+5945739999,Duronto Express,12245,Chennai,New Delhi,12/12/2023,General,262.84,Cancelled
+4863596164,Rajdhani Express,12951,Mumbai,Hyderabad,10/2/2024,1AC,3317.85,Cancelled
+1543279213,Garib Rath Express,12909,Ahmedabad,Hyderabad,3/4/2024,General,421.33,Waiting
+5275564926,Tejas Express,22119,Pune,Chennai,2/25/2024,2AC,1886.38,RAC
+8913306732,Garib Rath Express,12909,Lucknow,Mumbai,6/22/2024,3AC,1520.94,Waiting
+4886304241,Rajdhani Express,12951,Kolkata,Bangalore,6/29/2024,1AC,4648.33,Waiting
+6605359400,Humsafar Express,22448,Mumbai,Jaipur,1/20/2023,3AC,2102.04,Cancelled
+2626768760,Humsafar Express,22448,Jaipur,Kolkata,7/18/2023,2AC,3954.89,Confirmed
+5517219922,Shatabdi Express,12001,Pune,New Delhi,6/12/2023,1AC,4425.52,Cancelled
+3601361120,Shatabdi Express,12001,Bangalore,Pune,4/18/2023,2AC,2974.33,Confirmed
+5521739694,Duronto Express,12245,Mumbai,Bangalore,9/24/2024,3AC,1188.96,Waiting
+6776982977,Rajdhani Express,12951,Lucknow,Ahmedabad,11/7/2023,2AC,3168.88,RAC
+8106873110,Shatabdi Express,12001,New Delhi,Mumbai,2/14/2024,1AC,4278.97,Cancelled
+4399361543,Humsafar Express,22448,Ahmedabad,Hyderabad,10/7/2023,3AC,2024.79,Waiting
+4069952546,Garib Rath Express,12909,Pune,Lucknow,12/27/2024,1AC,4609.55,Cancelled
+5591140758,Garib Rath Express,12909,Chennai,Hyderabad,6/7/2024,General,463.57,Confirmed
+5416985768,Humsafar Express,22448,Jaipur,Lucknow,11/2/2024,Sleeper,670.09,Waiting
+4616312698,Garib Rath Express,12909,Hyderabad,Ahmedabad,3/7/2024,Sleeper,468.72,Waiting
+6419929477,Rajdhani Express,12951,Pune,Chennai,8/19/2023,Sleeper,613.72,RAC
+3350386407,Shatabdi Express,12001,Bangalore,Hyderabad,2/10/2023,General,446.76,RAC
+5795676992,Garib Rath Express,12909,Pune,Chennai,3/6/2024,General,275.33,RAC
+6659664887,Tejas Express,22119,Hyderabad,Mumbai,3/13/2024,3AC,2016.45,Confirmed
+5713864103,Tejas Express,22119,Mumbai,Chennai,5/30/2024,3AC,1439.88,RAC
+3641674923,Humsafar Express,22448,Kolkata,Mumbai,1/23/2023,3AC,1431.01,Cancelled
+8540962420,Garib Rath Express,12909,Hyderabad,Chennai,12/27/2023,1AC,3478.17,Confirmed
+3366988164,Humsafar Express,22448,Mumbai,Hyderabad,12/17/2023,3AC,2365.62,Confirmed
+3274887777,Duronto Express,12245,Bangalore,Pune,3/8/2024,2AC,3124.31,Waiting
+3946766190,Shatabdi Express,12001,Ahmedabad,Mumbai,7/31/2023,General,239.17,Cancelled
+3558157713,Shatabdi Express,12001,Ahmedabad,Chennai,10/24/2024,3AC,1220.27,Confirmed
+2030351905,Shatabdi Express,12001,Mumbai,Jaipur,4/7/2024,General,407.37,RAC
+8213680898,Tejas Express,22119,Kolkata,New Delhi,10/6/2023,1AC,4854.53,Waiting
+1932794791,Duronto Express,12245,Chennai,Bangalore,12/24/2024,Sleeper,487.73,Waiting
+4526992193,Humsafar Express,22448,Mumbai,Pune,10/23/2023,Sleeper,529.63,RAC
+2399228171,Shatabdi Express,12001,New Delhi,Bangalore,10/28/2023,General,317.47,Waiting
+9021962281,Garib Rath Express,12909,Pune,Ahmedabad,12/21/2024,2AC,3387.51,Confirmed
+9052119706,Duronto Express,12245,New Delhi,Kolkata,7/20/2024,General,486.49,RAC
+3151954135,Garib Rath Express,12909,Kolkata,Jaipur,12/23/2024,1AC,3447.49,Waiting
+4817128957,Rajdhani Express,12951,Kolkata,Mumbai,7/23/2023,General,379.61,RAC
+7622161273,Shatabdi Express,12001,Pune,New Delhi,2/14/2024,General,310.16,Cancelled
+3752603237,Humsafar Express,22448,Lucknow,Kolkata,11/23/2023,3AC,1136.32,RAC
+2305950940,Shatabdi Express,12001,Mumbai,New Delhi,11/5/2023,2AC,2096.6,RAC
+3370462636,Humsafar Express,22448,Pune,Mumbai,2/13/2024,2AC,2274.22,RAC
+7708432090,Tejas Express,22119,Jaipur,New Delhi,12/14/2024,General,262.04,Confirmed
+1323422192,Humsafar Express,22448,Pune,Lucknow,1/18/2023,1AC,2868.24,Confirmed
+1342974313,Duronto Express,12245,Lucknow,Hyderabad,3/22/2023,3AC,861.96,Waiting
+7361166543,Rajdhani Express,12951,Mumbai,Pune,4/21/2024,2AC,1556.26,Cancelled
+4617967107,Rajdhani Express,12951,Pune,Chennai,2/17/2024,Sleeper,971.7,RAC
+8141922312,Shatabdi Express,12001,Lucknow,Mumbai,9/5/2023,General,315.52,Confirmed
+3336207142,Shatabdi Express,12001,Pune,Kolkata,1/24/2024,1AC,3045.85,Waiting
+8099960949,Shatabdi Express,12001,Mumbai,Ahmedabad,6/18/2023,General,284.05,Waiting
+4239667591,Duronto Express,12245,Hyderabad,Lucknow,1/23/2024,3AC,1414.06,Cancelled
+1103295120,Humsafar Express,22448,New Delhi,Ahmedabad,12/16/2023,2AC,3189.71,Confirmed
+3611330483,Duronto Express,12245,New Delhi,Hyderabad,12/28/2023,Sleeper,632.53,Cancelled
+9219756918,Garib Rath Express,12909,New Delhi,Pune,7/4/2023,2AC,3935.08,Cancelled
+3066344035,Garib Rath Express,12909,Jaipur,Pune,3/31/2024,2AC,2192.38,Confirmed
+1525485018,Shatabdi Express,12001,Chennai,Ahmedabad,11/1/2024,2AC,3785.34,RAC
+9839891281,Humsafar Express,22448,Bangalore,Hyderabad,12/8/2023,General,484.86,RAC
+4107515818,Tejas Express,22119,Chennai,Bangalore,7/23/2023,Sleeper,473.56,Confirmed
+9673324587,Tejas Express,22119,New Delhi,Pune,9/16/2024,2AC,3043.59,Cancelled
+5321183340,Humsafar Express,22448,Lucknow,Hyderabad,7/2/2024,3AC,1525.15,RAC
+5692371822,Humsafar Express,22448,Jaipur,Ahmedabad,9/17/2023,Sleeper,664.23,Cancelled
+8115085777,Rajdhani Express,12951,Bangalore,New Delhi,5/3/2023,2AC,1696.58,Waiting
+1295271001,Shatabdi Express,12001,Hyderabad,Lucknow,6/6/2024,1AC,3649.76,RAC
+4129534081,Garib Rath Express,12909,Hyderabad,Mumbai,8/28/2024,Sleeper,437.74,Waiting
+7486771078,Duronto Express,12245,Kolkata,Bangalore,11/1/2023,General,491.8,Confirmed
+8918932303,Shatabdi Express,12001,Mumbai,Chennai,10/26/2023,2AC,2497.21,Waiting
+8962791476,Rajdhani Express,12951,Pune,Jaipur,1/16/2023,General,318.68,Waiting
+6375829337,Shatabdi Express,12001,Pune,Chennai,2/22/2024,Sleeper,818.23,Confirmed
+2668141703,Tejas Express,22119,Ahmedabad,New Delhi,4/6/2023,3AC,1149.56,Confirmed
+2511463551,Rajdhani Express,12951,Ahmedabad,Pune,10/26/2024,Sleeper,913.98,Confirmed
+7099626933,Rajdhani Express,12951,Ahmedabad,Lucknow,12/31/2024,3AC,2445.38,Waiting
+4215213223,Rajdhani Express,12951,Hyderabad,Bangalore,4/11/2024,Sleeper,628.97,Cancelled
+9064200329,Shatabdi Express,12001,Bangalore,Hyderabad,11/16/2024,3AC,2204.75,Waiting
+2414075714,Garib Rath Express,12909,Pune,Bangalore,12/15/2024,General,325.86,Cancelled
+7231160967,Tejas Express,22119,Lucknow,Chennai,3/28/2023,3AC,2047.26,Waiting
+6869636228,Shatabdi Express,12001,Kolkata,Hyderabad,10/23/2024,3AC,821.07,Waiting
+7487799773,Humsafar Express,22448,Chennai,Jaipur,10/17/2023,Sleeper,964.47,Waiting
+9855620550,Garib Rath Express,12909,Pune,Chennai,5/13/2023,General,245.51,Waiting
+2771512615,Humsafar Express,22448,Jaipur,Hyderabad,8/22/2024,General,399.95,RAC
+1129582995,Duronto Express,12245,Mumbai,Pune,1/31/2024,Sleeper,667.62,Cancelled
+1983668045,Humsafar Express,22448,Lucknow,New Delhi,11/30/2023,3AC,1880.43,Waiting
+3423405765,Rajdhani Express,12951,Jaipur,Pune,5/8/2023,2AC,3872.23,RAC
+9379513036,Humsafar Express,22448,Chennai,Kolkata,2/1/2024,Sleeper,748.66,Confirmed
+3838156381,Rajdhani Express,12951,Bangalore,Kolkata,4/17/2023,2AC,2439.85,RAC
+5356869251,Duronto Express,12245,Bangalore,Ahmedabad,3/8/2023,Sleeper,933.66,Cancelled
+2025524478,Humsafar Express,22448,Chennai,Mumbai,9/7/2024,1AC,3800.9,Confirmed
+6796024472,Humsafar Express,22448,New Delhi,Lucknow,6/17/2023,1AC,4014.87,Cancelled
+9052270791,Garib Rath Express,12909,Ahmedabad,Chennai,5/2/2024,General,493.92,RAC
+4959281893,Humsafar Express,22448,Kolkata,Hyderabad,10/6/2024,General,488.14,Cancelled
+1511952862,Tejas Express,22119,Mumbai,Ahmedabad,11/20/2023,1AC,2707.83,Waiting
+3334177781,Humsafar Express,22448,Bangalore,Chennai,8/7/2023,General,278.92,Confirmed
+6310494850,Tejas Express,22119,Bangalore,Hyderabad,6/6/2023,2AC,3251.63,RAC
+8848137831,Shatabdi Express,12001,Mumbai,Chennai,11/3/2023,2AC,2987.36,Cancelled
+2145402299,Garib Rath Express,12909,Chennai,Hyderabad,4/2/2024,General,408.04,Confirmed
+3672518252,Garib Rath Express,12909,Lucknow,Jaipur,1/30/2024,Sleeper,998.47,Waiting
+6362269165,Duronto Express,12245,Kolkata,Jaipur,2/6/2024,3AC,1109.4,Waiting
+1526955756,Duronto Express,12245,Lucknow,Bangalore,7/17/2024,General,478.63,Cancelled
+1047892440,Tejas Express,22119,Mumbai,Jaipur,5/10/2023,General,225.93,RAC
+7987675240,Duronto Express,12245,Bangalore,Chennai,12/10/2023,1AC,4044.11,Confirmed
+6292802564,Duronto Express,12245,New Delhi,Hyderabad,1/21/2024,2AC,2456.99,Waiting
+8924272712,Shatabdi Express,12001,Mumbai,Hyderabad,7/20/2024,1AC,3363.95,RAC
+2263133856,Rajdhani Express,12951,Bangalore,Ahmedabad,1/13/2024,1AC,4743.73,Confirmed
+7851241026,Tejas Express,22119,Kolkata,Jaipur,2/3/2023,3AC,1251.54,Confirmed
+2809350412,Humsafar Express,22448,Ahmedabad,Pune,9/10/2024,1AC,3710.14,RAC
+3683106214,Shatabdi Express,12001,Mumbai,Jaipur,7/3/2024,1AC,3895.63,Confirmed
+4270563568,Duronto Express,12245,Chennai,Kolkata,5/30/2023,3AC,2484.89,Confirmed
+4442108596,Humsafar Express,22448,Ahmedabad,Lucknow,1/8/2023,General,360.79,Waiting
+6429356634,Rajdhani Express,12951,Ahmedabad,Chennai,11/21/2023,3AC,1283.84,Cancelled
+7108005473,Shatabdi Express,12001,Hyderabad,Bangalore,1/7/2024,General,420.27,Confirmed
+6024265066,Rajdhani Express,12951,Jaipur,New Delhi,7/26/2023,2AC,3258.25,RAC
+5330127260,Tejas Express,22119,Pune,Chennai,3/14/2024,General,406.58,Waiting
+6557505812,Garib Rath Express,12909,Lucknow,Mumbai,4/20/2024,1AC,3775.14,Waiting
+2533034898,Shatabdi Express,12001,Kolkata,Lucknow,6/16/2023,1AC,2974.47,Waiting
+2616137099,Humsafar Express,22448,Ahmedabad,Pune,12/29/2024,3AC,1580.37,RAC
+2174094068,Rajdhani Express,12951,Hyderabad,New Delhi,4/29/2024,General,230.68,Confirmed
+3045241088,Humsafar Express,22448,Jaipur,Bangalore,4/9/2023,2AC,2348.82,Cancelled
+6391821658,Duronto Express,12245,Hyderabad,Ahmedabad,5/15/2023,3AC,2070.36,Confirmed
+1464376583,Duronto Express,12245,Mumbai,Bangalore,12/18/2024,General,362.11,Confirmed
+8020925040,Duronto Express,12245,Jaipur,Pune,2/12/2023,Sleeper,759.11,Waiting
+3448357280,Garib Rath Express,12909,Bangalore,Kolkata,4/24/2024,Sleeper,982.5,Waiting
+5217494253,Tejas Express,22119,Pune,Chennai,2/6/2023,Sleeper,881.55,Waiting
+9203922833,Tejas Express,22119,Chennai,Jaipur,6/4/2023,General,257.89,Cancelled
+3602888490,Garib Rath Express,12909,Lucknow,Hyderabad,7/23/2024,2AC,1872.31,Cancelled
+1585294771,Garib Rath Express,12909,Hyderabad,Lucknow,7/1/2023,3AC,885,Waiting
+1549079012,Tejas Express,22119,Pune,Jaipur,10/12/2024,General,418.5,Confirmed
+9772224494,Rajdhani Express,12951,Lucknow,Pune,2/11/2024,General,227.34,Waiting
+5571901610,Shatabdi Express,12001,Kolkata,New Delhi,1/16/2024,1AC,4663.98,Cancelled
+5251737972,Tejas Express,22119,Hyderabad,Lucknow,4/18/2023,2AC,3366.99,Cancelled
+4265794669,Shatabdi Express,12001,New Delhi,Hyderabad,2/26/2024,2AC,3136.92,RAC
+7748309003,Garib Rath Express,12909,Kolkata,Hyderabad,12/7/2023,3AC,2217.06,Cancelled
+4874587319,Tejas Express,22119,Mumbai,Ahmedabad,4/12/2023,3AC,1487.4,RAC
+4894975596,Tejas Express,22119,Lucknow,Hyderabad,11/4/2023,General,410.86,Confirmed
+4368844161,Humsafar Express,22448,Mumbai,Lucknow,6/11/2023,3AC,1453.54,Waiting
+4051224459,Rajdhani Express,12951,Jaipur,Bangalore,8/18/2023,3AC,2212.57,Waiting
+2176477847,Garib Rath Express,12909,Hyderabad,Kolkata,3/30/2024,2AC,2182.36,Confirmed
+4373695622,Duronto Express,12245,Chennai,Pune,8/26/2023,1AC,4596.69,Waiting
+1693817981,Garib Rath Express,12909,Kolkata,Bangalore,2/28/2023,2AC,2395.29,Cancelled
+3966668855,Shatabdi Express,12001,Bangalore,Ahmedabad,8/20/2024,3AC,1291.71,Waiting
+1950232527,Duronto Express,12245,Chennai,New Delhi,4/8/2024,2AC,2989.79,Cancelled
+8191892018,Humsafar Express,22448,Pune,Mumbai,7/31/2023,2AC,1766.4,Cancelled
+1687714617,Shatabdi Express,12001,Mumbai,Hyderabad,12/11/2023,Sleeper,719.98,Waiting
+5849526865,Rajdhani Express,12951,Chennai,Pune,3/29/2023,3AC,1742.58,Confirmed
+6324123590,Tejas Express,22119,Chennai,New Delhi,3/25/2024,2AC,2983.11,RAC
+7703549235,Tejas Express,22119,Kolkata,Hyderabad,2/21/2024,3AC,942.63,RAC
+8924964469,Tejas Express,22119,Chennai,New Delhi,12/21/2023,General,290.3,Confirmed
+4989015362,Garib Rath Express,12909,Chennai,Ahmedabad,4/26/2023,2AC,2990.59,Waiting
+3259810362,Garib Rath Express,12909,Pune,Chennai,6/9/2024,General,204.22,Cancelled
+8035835207,Duronto Express,12245,Jaipur,Chennai,6/12/2023,3AC,1935,RAC
+2144141310,Rajdhani Express,12951,New Delhi,Chennai,10/25/2023,Sleeper,529.52,Waiting
+3804417486,Tejas Express,22119,Mumbai,Hyderabad,8/23/2024,3AC,2304.63,Confirmed
+2574244099,Humsafar Express,22448,New Delhi,Kolkata,5/21/2023,3AC,927.73,RAC
+7872188983,Humsafar Express,22448,Mumbai,Pune,11/4/2024,Sleeper,665.48,Confirmed
+6997235170,Humsafar Express,22448,Jaipur,Pune,7/17/2023,2AC,1955.37,Waiting
+5142066897,Duronto Express,12245,Chennai,Lucknow,6/29/2023,2AC,3011.91,Confirmed
+1135918710,Rajdhani Express,12951,Chennai,Bangalore,4/29/2024,Sleeper,666.56,Confirmed
+8278360438,Shatabdi Express,12001,Chennai,Lucknow,1/12/2023,Sleeper,559.91,Cancelled
+6841807707,Duronto Express,12245,Jaipur,New Delhi,8/1/2023,3AC,1021.17,Cancelled
+5484068586,Duronto Express,12245,New Delhi,Pune,3/17/2024,3AC,1342.23,Waiting
+9336445223,Humsafar Express,22448,New Delhi,Kolkata,4/4/2024,General,340.7,Cancelled
+9628362208,Humsafar Express,22448,Kolkata,Ahmedabad,9/7/2023,Sleeper,560.24,Waiting
+4014922276,Duronto Express,12245,Hyderabad,Lucknow,9/29/2024,1AC,3468.53,RAC
+2453458828,Shatabdi Express,12001,Ahmedabad,Jaipur,3/9/2024,3AC,809.02,Cancelled
+5042679631,Humsafar Express,22448,Bangalore,Pune,2/21/2024,Sleeper,787.15,Confirmed
+8311215221,Duronto Express,12245,Kolkata,Ahmedabad,6/27/2023,3AC,1894.49,RAC
+5737749772,Shatabdi Express,12001,Kolkata,Hyderabad,11/19/2023,3AC,948.37,Cancelled
+8062293398,Rajdhani Express,12951,New Delhi,Pune,11/11/2023,1AC,3192,Confirmed
+4384977194,Shatabdi Express,12001,Chennai,Ahmedabad,4/7/2023,3AC,1942.39,Waiting
+7045336822,Tejas Express,22119,Ahmedabad,Mumbai,10/5/2023,1AC,3290.4,Confirmed
+4876332608,Humsafar Express,22448,Bangalore,Lucknow,12/20/2024,General,303.4,RAC
+7013473435,Garib Rath Express,12909,Ahmedabad,Hyderabad,8/31/2023,Sleeper,573.31,Cancelled
+4137843796,Shatabdi Express,12001,Chennai,Kolkata,6/9/2024,2AC,3710.97,Confirmed
+7196480692,Shatabdi Express,12001,Ahmedabad,Kolkata,7/10/2023,3AC,1916.4,Cancelled
+5749156884,Duronto Express,12245,New Delhi,Hyderabad,11/14/2023,General,294.06,Confirmed
+4177464974,Shatabdi Express,12001,Lucknow,Pune,2/15/2024,2AC,3714.74,Cancelled
+8759784049,Garib Rath Express,12909,Kolkata,Pune,9/15/2024,1AC,4314.62,Cancelled
+1707005734,Rajdhani Express,12951,Ahmedabad,Jaipur,1/8/2023,2AC,1682.87,Cancelled
+8439608672,Tejas Express,22119,Jaipur,Kolkata,5/8/2024,Sleeper,465.01,RAC
+6030140838,Duronto Express,12245,Mumbai,Chennai,7/31/2023,General,336.28,Cancelled
+4669838526,Duronto Express,12245,Ahmedabad,Jaipur,10/17/2024,Sleeper,561.45,Confirmed
+7390949401,Rajdhani Express,12951,New Delhi,Kolkata,5/19/2024,3AC,976.22,Cancelled
+6198091071,Rajdhani Express,12951,Kolkata,Bangalore,4/17/2024,General,330.97,Waiting
+8038565411,Rajdhani Express,12951,Chennai,Pune,3/15/2023,3AC,1917.89,RAC
+8550709779,Garib Rath Express,12909,Hyderabad,Chennai,11/2/2024,3AC,2208.76,Confirmed
+5969072715,Garib Rath Express,12909,Hyderabad,Lucknow,3/31/2023,General,454.8,RAC
+8176007038,Rajdhani Express,12951,Pune,Bangalore,5/20/2024,Sleeper,577.95,Confirmed
+6864804856,Duronto Express,12245,Kolkata,Pune,12/30/2024,1AC,3681.48,RAC
+1486151014,Humsafar Express,22448,Bangalore,Hyderabad,12/26/2024,2AC,3062.87,Confirmed
+3719394596,Tejas Express,22119,Hyderabad,Bangalore,7/7/2024,Sleeper,556.95,Cancelled
+2987057266,Humsafar Express,22448,Pune,Bangalore,8/27/2024,Sleeper,791.4,Waiting
+6776605659,Humsafar Express,22448,Hyderabad,Bangalore,9/25/2024,Sleeper,990.07,Confirmed
+3749735238,Shatabdi Express,12001,Hyderabad,Bangalore,6/25/2024,3AC,1133.6,RAC
+7887165186,Tejas Express,22119,New Delhi,Mumbai,6/28/2024,2AC,2406.09,Waiting
+6487566550,Humsafar Express,22448,New Delhi,Pune,12/9/2024,General,485.53,Cancelled
+4411595144,Tejas Express,22119,Jaipur,Pune,7/6/2024,Sleeper,782.4,Cancelled
+4296876778,Tejas Express,22119,Bangalore,Ahmedabad,1/22/2023,Sleeper,878.27,Waiting
+2222261190,Shatabdi Express,12001,New Delhi,Mumbai,2/23/2023,Sleeper,676.37,Waiting
+3689053232,Garib Rath Express,12909,New Delhi,Pune,2/18/2024,General,451.67,RAC
+7233061576,Tejas Express,22119,Mumbai,Hyderabad,5/23/2024,Sleeper,475.86,RAC
+7484481414,Garib Rath Express,12909,Ahmedabad,Lucknow,2/17/2023,2AC,2237.22,Cancelled
+2838059803,Tejas Express,22119,Jaipur,Chennai,4/4/2023,Sleeper,661.72,Cancelled
+2204674235,Tejas Express,22119,Chennai,Mumbai,5/12/2023,Sleeper,689.26,Waiting
+8947157920,Tejas Express,22119,Bangalore,Pune,10/1/2023,General,398.98,Waiting
+2086260974,Duronto Express,12245,Hyderabad,Jaipur,9/15/2023,General,235.56,RAC
+6377450815,Humsafar Express,22448,Bangalore,Ahmedabad,8/7/2023,1AC,3640.06,RAC
+4521901823,Humsafar Express,22448,Mumbai,Lucknow,5/23/2024,2AC,3557.07,Cancelled
+3102146621,Rajdhani Express,12951,Lucknow,Chennai,1/24/2024,1AC,4480.86,Cancelled
+6431532336,Humsafar Express,22448,Bangalore,Lucknow,5/19/2024,General,484.83,RAC
+4432948964,Garib Rath Express,12909,Mumbai,Bangalore,3/6/2024,1AC,3655.4,Cancelled
+3374010322,Tejas Express,22119,Hyderabad,Jaipur,9/4/2024,General,454.13,Waiting
+9859634565,Tejas Express,22119,Bangalore,Kolkata,6/26/2024,3AC,1311.25,Waiting
+3138344070,Humsafar Express,22448,Jaipur,Pune,3/18/2024,General,366.58,Waiting
+6501075463,Rajdhani Express,12951,Bangalore,Jaipur,9/15/2023,1AC,3748.9,Confirmed
+3761780777,Duronto Express,12245,Ahmedabad,Jaipur,8/31/2024,1AC,2645.84,Confirmed
+6281536396,Humsafar Express,22448,Chennai,Hyderabad,10/15/2024,1AC,2660.55,Confirmed
+8326367252,Shatabdi Express,12001,Ahmedabad,Bangalore,4/15/2023,2AC,3257.56,Cancelled
+6829091920,Rajdhani Express,12951,Kolkata,Pune,3/31/2023,Sleeper,758.81,Cancelled
+4850413563,Garib Rath Express,12909,Lucknow,Hyderabad,10/25/2023,Sleeper,690.3,Confirmed
+6418729821,Humsafar Express,22448,Bangalore,Mumbai,8/4/2023,2AC,3865.78,Confirmed
+3470687433,Shatabdi Express,12001,Pune,Mumbai,8/13/2023,3AC,1866.54,Confirmed
+9587873779,Shatabdi Express,12001,Mumbai,Hyderabad,1/23/2024,General,206.88,Confirmed
+4291335247,Rajdhani Express,12951,Ahmedabad,Bangalore,11/19/2024,1AC,3987.71,Waiting
+2192460228,Garib Rath Express,12909,Kolkata,New Delhi,3/30/2023,2AC,2207.56,Confirmed
+4259305233,Garib Rath Express,12909,Bangalore,New Delhi,9/7/2023,1AC,4003.99,Confirmed
+6504406753,Tejas Express,22119,New Delhi,Mumbai,11/10/2024,2AC,1525.32,Waiting
+6199574780,Humsafar Express,22448,Lucknow,New Delhi,7/31/2024,Sleeper,818.85,Confirmed
+9518017191,Humsafar Express,22448,Bangalore,New Delhi,12/16/2024,2AC,2945.39,RAC
+1471654380,Shatabdi Express,12001,Hyderabad,Chennai,11/30/2023,1AC,3318.03,RAC
+2256843686,Rajdhani Express,12951,Kolkata,Hyderabad,11/24/2024,3AC,2433.79,Cancelled
+7846517213,Duronto Express,12245,Bangalore,Mumbai,8/19/2024,Sleeper,650.38,RAC
+9726300790,Humsafar Express,22448,Kolkata,Pune,7/22/2024,3AC,851.19,Confirmed
+9076831997,Humsafar Express,22448,Chennai,Mumbai,5/9/2023,Sleeper,631.05,Waiting
+3087154342,Garib Rath Express,12909,Ahmedabad,Pune,11/1/2024,General,299.37,Confirmed
+3936927139,Humsafar Express,22448,Bangalore,Ahmedabad,9/1/2023,2AC,1723.03,RAC
+8864251442,Tejas Express,22119,Chennai,Ahmedabad,8/25/2024,2AC,3921.81,RAC
+7275231521,Garib Rath Express,12909,Bangalore,Hyderabad,6/18/2023,3AC,1911.65,Cancelled
+9652177804,Humsafar Express,22448,Mumbai,Pune,4/9/2023,General,350.3,RAC
+5303639632,Shatabdi Express,12001,New Delhi,Kolkata,8/23/2024,1AC,3069.76,RAC
+4967293977,Garib Rath Express,12909,Mumbai,Lucknow,4/27/2024,1AC,2884.25,RAC
+2578275033,Rajdhani Express,12951,Lucknow,Hyderabad,8/9/2023,Sleeper,501.28,Cancelled
+8168476599,Shatabdi Express,12001,Chennai,Pune,9/13/2024,1AC,4708.78,Cancelled
+8641387530,Shatabdi Express,12001,New Delhi,Hyderabad,1/12/2023,2AC,3607.53,Cancelled
+2445313784,Garib Rath Express,12909,Pune,Bangalore,8/29/2023,1AC,4104.42,Cancelled
+1599213544,Duronto Express,12245,Bangalore,Mumbai,5/31/2023,Sleeper,492.54,RAC
+5113253138,Rajdhani Express,12951,Jaipur,Chennai,7/11/2024,3AC,1568.79,Cancelled
+4814305849,Rajdhani Express,12951,Jaipur,Mumbai,3/27/2023,2AC,3443.96,Cancelled
+9625509766,Rajdhani Express,12951,Lucknow,Bangalore,8/1/2023,2AC,3278.7,Confirmed
+8722324487,Duronto Express,12245,Bangalore,Jaipur,3/27/2024,General,461.49,RAC
+1846478046,Humsafar Express,22448,Chennai,Jaipur,1/26/2024,2AC,1854.66,Cancelled
+2485335354,Shatabdi Express,12001,Hyderabad,Bangalore,10/31/2023,1AC,3525.32,Confirmed
+7651205073,Tejas Express,22119,Mumbai,Kolkata,7/20/2024,1AC,4498.31,Waiting
+2703065684,Rajdhani Express,12951,Lucknow,Kolkata,4/19/2023,General,409.8,Waiting
+8144724490,Rajdhani Express,12951,Chennai,Jaipur,7/8/2023,1AC,4565.15,Cancelled
+4684744332,Tejas Express,22119,New Delhi,Mumbai,10/5/2023,General,498.82,Cancelled
+3836521959,Shatabdi Express,12001,Lucknow,Mumbai,1/14/2023,3AC,2239.24,Confirmed
+4426129794,Rajdhani Express,12951,Hyderabad,Chennai,5/17/2024,2AC,2892.94,RAC
+5157829155,Shatabdi Express,12001,Mumbai,New Delhi,6/24/2024,General,353.86,RAC
+6308572128,Tejas Express,22119,New Delhi,Kolkata,2/8/2024,2AC,2689.31,Confirmed
+9415139392,Duronto Express,12245,New Delhi,Pune,3/25/2024,General,307.23,Cancelled
+5156036410,Humsafar Express,22448,Kolkata,Lucknow,8/25/2024,1AC,4493.58,Waiting
+9092108145,Rajdhani Express,12951,Hyderabad,Jaipur,9/10/2024,3AC,1473.03,Cancelled
+1169944265,Tejas Express,22119,Ahmedabad,New Delhi,11/27/2024,2AC,3825.64,RAC
+7848433466,Duronto Express,12245,Jaipur,Kolkata,2/25/2023,3AC,2332.89,RAC
+8544100628,Rajdhani Express,12951,Lucknow,Kolkata,12/26/2023,1AC,4972.77,RAC
+2544292434,Duronto Express,12245,Mumbai,New Delhi,10/27/2024,General,208.7,RAC
+7854022252,Shatabdi Express,12001,Chennai,Kolkata,10/13/2023,Sleeper,445.42,RAC
+3054073430,Humsafar Express,22448,Ahmedabad,Hyderabad,12/16/2023,Sleeper,720.8,RAC
+8018438345,Tejas Express,22119,Kolkata,Jaipur,5/15/2024,Sleeper,427.52,Confirmed
+9712388897,Tejas Express,22119,Chennai,Ahmedabad,6/25/2024,2AC,3087.36,Waiting
+8797129982,Rajdhani Express,12951,Lucknow,Mumbai,7/8/2023,2AC,1661.53,Confirmed
+1238233246,Garib Rath Express,12909,Pune,Bangalore,2/21/2023,1AC,4901.78,RAC
+4843353365,Garib Rath Express,12909,Jaipur,Pune,4/18/2023,3AC,1551.12,Cancelled
+2977129125,Humsafar Express,22448,Jaipur,Lucknow,5/10/2024,2AC,1913.39,Cancelled
+6602598471,Duronto Express,12245,Chennai,Mumbai,11/17/2024,2AC,3547.16,Confirmed
+2155367572,Garib Rath Express,12909,Ahmedabad,Mumbai,10/22/2023,3AC,2340.62,Waiting
+3282573829,Duronto Express,12245,Hyderabad,Chennai,5/23/2024,General,468.05,Waiting
+2407000431,Duronto Express,12245,Lucknow,Hyderabad,5/17/2023,Sleeper,869.35,Confirmed
+6986503001,Rajdhani Express,12951,Chennai,Mumbai,7/8/2024,Sleeper,476.17,RAC
+3538393928,Duronto Express,12245,New Delhi,Chennai,11/4/2024,1AC,3640.81,RAC
+4030211761,Tejas Express,22119,Hyderabad,Ahmedabad,9/28/2023,General,215.19,Confirmed
+5242777898,Tejas Express,22119,New Delhi,Chennai,9/19/2023,General,257.77,RAC
+9530884124,Garib Rath Express,12909,Lucknow,Jaipur,10/30/2023,General,274.31,Cancelled
+3351310473,Rajdhani Express,12951,New Delhi,Hyderabad,3/9/2023,1AC,2952.72,Cancelled
+6465360605,Garib Rath Express,12909,New Delhi,Kolkata,11/3/2023,1AC,2549.16,RAC
+9258708483,Duronto Express,12245,Hyderabad,New Delhi,6/2/2024,2AC,2821.95,Waiting
+1781381869,Duronto Express,12245,Chennai,Pune,11/3/2024,Sleeper,929.31,RAC
+2727978818,Duronto Express,12245,Lucknow,Bangalore,2/19/2024,Sleeper,920.34,Confirmed
+6971892584,Rajdhani Express,12951,New Delhi,Chennai,10/10/2024,1AC,4714.33,Confirmed
+5866305011,Duronto Express,12245,Mumbai,Chennai,4/5/2023,1AC,4514.01,Waiting
+2195545221,Duronto Express,12245,Jaipur,Lucknow,3/14/2023,1AC,4247.59,Confirmed
+4380406023,Humsafar Express,22448,Mumbai,Jaipur,1/14/2024,2AC,3611.85,Cancelled
+2157732760,Duronto Express,12245,Kolkata,Ahmedabad,9/19/2023,3AC,1746.22,RAC
+4662706375,Tejas Express,22119,Hyderabad,Bangalore,4/2/2024,General,271.99,RAC
+9412786913,Humsafar Express,22448,Lucknow,Kolkata,3/5/2023,Sleeper,995.01,Confirmed
+8665760258,Shatabdi Express,12001,Kolkata,Pune,1/4/2024,Sleeper,566.37,Waiting
+3812008877,Humsafar Express,22448,Hyderabad,Jaipur,11/19/2023,General,434.7,Confirmed
+4281468855,Humsafar Express,22448,Jaipur,Mumbai,3/26/2023,General,492.01,Confirmed
+5719553197,Garib Rath Express,12909,Bangalore,Jaipur,12/1/2024,Sleeper,819.97,RAC
+4475049601,Shatabdi Express,12001,Hyderabad,Pune,6/12/2024,3AC,2397.73,Confirmed
+7038247360,Tejas Express,22119,Mumbai,New Delhi,8/14/2023,3AC,2369.86,Cancelled
+1529457521,Duronto Express,12245,Mumbai,Jaipur,5/29/2024,Sleeper,901.16,RAC
+8207001496,Rajdhani Express,12951,Kolkata,New Delhi,4/15/2023,2AC,1946.6,Confirmed
+8882169687,Garib Rath Express,12909,Mumbai,Jaipur,7/25/2024,2AC,2326,Waiting
+1847543769,Tejas Express,22119,Mumbai,Pune,7/16/2023,Sleeper,822.58,Cancelled
+5059672172,Rajdhani Express,12951,Pune,Jaipur,5/1/2024,General,257.93,Confirmed
+2621503175,Humsafar Express,22448,New Delhi,Jaipur,8/14/2024,Sleeper,757.81,Cancelled
+3243486696,Humsafar Express,22448,Kolkata,Ahmedabad,1/11/2023,1AC,4154.7,RAC
+4296054700,Garib Rath Express,12909,Pune,New Delhi,8/16/2024,Sleeper,743.9,Confirmed
+7441149239,Humsafar Express,22448,Hyderabad,Bangalore,11/16/2024,3AC,1320.4,Cancelled
+3274740356,Tejas Express,22119,Kolkata,Lucknow,3/8/2023,General,269.58,Confirmed
+5605995239,Tejas Express,22119,Hyderabad,Jaipur,5/7/2023,3AC,976.22,RAC
+3778557376,Garib Rath Express,12909,Kolkata,Mumbai,6/4/2024,1AC,3750,Waiting
+5894783406,Shatabdi Express,12001,Jaipur,New Delhi,8/8/2024,Sleeper,854.75,RAC
+7476013706,Humsafar Express,22448,Hyderabad,Bangalore,12/4/2024,General,420.9,Waiting
+3209337973,Tejas Express,22119,Hyderabad,Chennai,10/31/2024,2AC,2183.47,RAC
+5734923821,Rajdhani Express,12951,Jaipur,Lucknow,8/19/2023,2AC,1589.51,RAC
+2269881014,Tejas Express,22119,Hyderabad,Pune,12/8/2024,Sleeper,565.17,Cancelled
+5715348824,Shatabdi Express,12001,Bangalore,Mumbai,9/27/2023,2AC,1831.95,RAC
+5847434021,Duronto Express,12245,Jaipur,Bangalore,6/20/2023,2AC,2046.34,RAC
+2814504092,Shatabdi Express,12001,Pune,Mumbai,12/5/2024,1AC,3934.57,Waiting
+2340831384,Duronto Express,12245,Kolkata,Mumbai,3/4/2023,1AC,2649.12,RAC
+9365443713,Rajdhani Express,12951,Bangalore,New Delhi,6/28/2023,Sleeper,476.13,Cancelled
+8802991940,Rajdhani Express,12951,Mumbai,Kolkata,6/13/2023,1AC,4059.06,RAC
+5746579812,Humsafar Express,22448,Jaipur,Chennai,2/14/2024,1AC,4690.28,RAC
+8132640623,Shatabdi Express,12001,Mumbai,Hyderabad,10/30/2023,General,492.38,Confirmed
+1354395812,Duronto Express,12245,Chennai,Bangalore,3/20/2023,3AC,1150.08,Waiting
+7211480942,Garib Rath Express,12909,Pune,Kolkata,1/24/2023,3AC,1984.19,RAC
+6611352828,Humsafar Express,22448,Ahmedabad,New Delhi,8/15/2024,1AC,3855.71,Confirmed
+3346726217,Rajdhani Express,12951,Chennai,Jaipur,4/3/2024,Sleeper,745.01,RAC
+8062838232,Garib Rath Express,12909,Hyderabad,Jaipur,8/29/2023,1AC,2971.94,Confirmed
+4488859120,Shatabdi Express,12001,Kolkata,Jaipur,12/1/2024,3AC,2458.83,RAC
+9667674984,Tejas Express,22119,Pune,Chennai,7/12/2023,1AC,4078.62,Cancelled
+8194489344,Tejas Express,22119,Kolkata,Hyderabad,11/17/2023,General,431.6,Waiting
+8263103499,Humsafar Express,22448,Lucknow,Ahmedabad,7/13/2023,General,430.26,Cancelled
+1234005647,Garib Rath Express,12909,Ahmedabad,Lucknow,11/19/2023,Sleeper,501.39,RAC
+8882357870,Garib Rath Express,12909,Pune,Jaipur,2/3/2023,1AC,4177.52,Waiting
+4632199105,Shatabdi Express,12001,New Delhi,Lucknow,11/2/2024,3AC,2435.99,RAC
+5356979799,Duronto Express,12245,New Delhi,Pune,7/9/2024,1AC,3902.17,Confirmed
+7415731047,Tejas Express,22119,Lucknow,Bangalore,1/16/2024,1AC,3403.59,Cancelled
+4651076593,Shatabdi Express,12001,Lucknow,Mumbai,5/19/2024,1AC,3266.3,Confirmed
+4725911519,Humsafar Express,22448,Bangalore,Jaipur,5/2/2023,2AC,3320.7,Waiting
+6772199553,Humsafar Express,22448,Bangalore,Pune,1/24/2024,3AC,865.17,RAC
+6581456713,Garib Rath Express,12909,Mumbai,Kolkata,3/4/2024,1AC,2938.56,Confirmed
+6267702856,Tejas Express,22119,Mumbai,Lucknow,10/29/2023,3AC,1899.93,Cancelled
+5541680215,Tejas Express,22119,Mumbai,New Delhi,7/15/2023,Sleeper,513.4,Confirmed
+2980668535,Shatabdi Express,12001,Pune,New Delhi,7/7/2024,1AC,4991.56,RAC
+8828465662,Duronto Express,12245,Jaipur,Ahmedabad,4/6/2023,Sleeper,414.88,Confirmed
+2986101516,Tejas Express,22119,New Delhi,Lucknow,3/24/2024,3AC,1692.3,Waiting
+8114145596,Rajdhani Express,12951,Chennai,Bangalore,1/4/2023,Sleeper,821.74,Waiting
+3472685668,Duronto Express,12245,Bangalore,New Delhi,8/3/2023,3AC,1543.94,Waiting
+7043698115,Rajdhani Express,12951,Hyderabad,Mumbai,10/22/2023,2AC,1580.54,Waiting
+9331841364,Garib Rath Express,12909,Pune,Lucknow,8/28/2023,Sleeper,614.9,Waiting
+7427078475,Garib Rath Express,12909,Bangalore,Mumbai,8/10/2024,2AC,3836.64,RAC
+4283112638,Garib Rath Express,12909,Lucknow,Chennai,11/27/2023,2AC,3676.53,Waiting
+7636351401,Shatabdi Express,12001,Ahmedabad,Hyderabad,10/7/2024,1AC,4902.18,Confirmed
+4323366296,Shatabdi Express,12001,Chennai,Lucknow,3/7/2023,General,208.66,Waiting
+8118082684,Shatabdi Express,12001,Jaipur,New Delhi,10/2/2023,1AC,4297.62,Waiting
+1271733745,Duronto Express,12245,Mumbai,Kolkata,3/8/2024,2AC,1601.47,RAC
+5405548123,Shatabdi Express,12001,Bangalore,Pune,11/28/2024,Sleeper,639.73,Cancelled
+8946555485,Duronto Express,12245,Bangalore,Lucknow,7/6/2024,2AC,1684.46,Cancelled
+6560532604,Humsafar Express,22448,Chennai,Kolkata,2/16/2023,3AC,1888.75,Confirmed
+1877036350,Duronto Express,12245,Jaipur,Hyderabad,10/19/2023,Sleeper,468.99,RAC
+2936070904,Tejas Express,22119,New Delhi,Lucknow,5/27/2023,2AC,1941.53,Waiting
+8297105215,Duronto Express,12245,Bangalore,Kolkata,3/9/2024,1AC,2571.86,Cancelled
+6496226584,Shatabdi Express,12001,Ahmedabad,Chennai,8/10/2023,2AC,1871.76,Confirmed
+7632518566,Duronto Express,12245,Hyderabad,Bangalore,7/15/2024,Sleeper,583.11,Cancelled
+2685125531,Tejas Express,22119,Pune,Mumbai,9/16/2024,General,249.22,RAC
+9713043058,Tejas Express,22119,Mumbai,Chennai,4/22/2024,3AC,2434.46,Cancelled
+9558745973,Shatabdi Express,12001,Pune,Lucknow,1/2/2024,General,331.27,RAC
+3648161002,Tejas Express,22119,Lucknow,New Delhi,11/17/2023,Sleeper,449.97,Confirmed
+6834346063,Garib Rath Express,12909,Lucknow,New Delhi,2/26/2024,3AC,1006.65,RAC
+8066597546,Humsafar Express,22448,Chennai,Hyderabad,2/14/2024,Sleeper,855.7,RAC
+6849220640,Duronto Express,12245,Jaipur,Pune,10/20/2023,1AC,2852.88,RAC
+9889705546,Shatabdi Express,12001,Chennai,Kolkata,7/23/2024,3AC,1916.48,Confirmed
+6470326663,Humsafar Express,22448,Lucknow,Mumbai,11/18/2024,2AC,2450.48,RAC
+2760245166,Tejas Express,22119,Jaipur,Lucknow,10/27/2024,General,263.48,Confirmed
+5427823517,Rajdhani Express,12951,Chennai,Ahmedabad,9/7/2024,3AC,1427.26,Confirmed
+9124601364,Garib Rath Express,12909,Kolkata,Ahmedabad,9/2/2023,Sleeper,475.34,Cancelled
+9249613717,Shatabdi Express,12001,Jaipur,Bangalore,3/15/2023,2AC,2204.24,RAC
+1179073381,Rajdhani Express,12951,Bangalore,Mumbai,3/23/2023,3AC,1770.09,Waiting
+9487440041,Garib Rath Express,12909,Lucknow,Hyderabad,1/29/2024,1AC,4511.66,Cancelled
+7428236090,Rajdhani Express,12951,Lucknow,Mumbai,6/26/2023,General,433.33,Waiting
+7571734043,Shatabdi Express,12001,Chennai,Hyderabad,8/26/2024,General,367.97,Waiting
+9235678665,Duronto Express,12245,New Delhi,Lucknow,4/15/2023,1AC,2912.2,RAC
+9530942329,Humsafar Express,22448,Ahmedabad,Chennai,5/25/2023,2AC,1668.35,Waiting
+3268365191,Duronto Express,12245,Hyderabad,Mumbai,10/9/2024,2AC,3385.35,Confirmed
+1736964482,Duronto Express,12245,Lucknow,Kolkata,2/3/2023,1AC,2660.56,RAC
+6853394564,Rajdhani Express,12951,Chennai,Bangalore,1/7/2024,General,421.65,RAC
+9672605372,Duronto Express,12245,Ahmedabad,Mumbai,7/4/2024,Sleeper,660.65,RAC
+3832243682,Garib Rath Express,12909,Mumbai,Hyderabad,5/13/2023,Sleeper,919.44,Cancelled
+9846605309,Duronto Express,12245,Pune,Jaipur,3/18/2024,3AC,2490.19,Waiting
+3838852470,Humsafar Express,22448,New Delhi,Chennai,7/8/2024,1AC,4963.62,Cancelled
+9925721417,Tejas Express,22119,Chennai,Bangalore,4/7/2024,1AC,3571.85,Waiting
+5216120849,Garib Rath Express,12909,Kolkata,Bangalore,4/14/2024,Sleeper,802.63,Confirmed
+8191144812,Garib Rath Express,12909,Hyderabad,Lucknow,4/29/2023,Sleeper,717.22,Confirmed
+7872869444,Garib Rath Express,12909,Pune,New Delhi,12/30/2023,2AC,3561.69,Waiting
+5641689407,Garib Rath Express,12909,Ahmedabad,Kolkata,4/1/2023,General,452.88,Confirmed
+4788442446,Humsafar Express,22448,Mumbai,Jaipur,8/23/2024,3AC,2290.46,Cancelled
+6229399330,Duronto Express,12245,Lucknow,Chennai,9/27/2023,2AC,3243.44,Cancelled
+3526352243,Duronto Express,12245,Jaipur,Mumbai,3/25/2024,3AC,1756.17,RAC
+2781697021,Tejas Express,22119,Mumbai,Pune,2/5/2024,Sleeper,523.57,Cancelled
+2792764503,Rajdhani Express,12951,Pune,Bangalore,10/22/2024,General,251.2,Confirmed
+5082818240,Duronto Express,12245,New Delhi,Chennai,9/21/2024,General,332.26,Waiting
+3822171572,Garib Rath Express,12909,Ahmedabad,Hyderabad,11/1/2023,Sleeper,497.25,RAC
+7153946391,Tejas Express,22119,Bangalore,Hyderabad,1/2/2024,General,465.69,Confirmed
+3069568656,Duronto Express,12245,Bangalore,Kolkata,2/3/2024,1AC,4118.61,Confirmed
+9258281797,Tejas Express,22119,Jaipur,Kolkata,12/27/2023,2AC,3817.96,RAC
+2424582207,Garib Rath Express,12909,Hyderabad,Pune,6/27/2024,3AC,2357.7,RAC
+7319580406,Tejas Express,22119,Lucknow,Pune,7/7/2024,2AC,2899.36,RAC
+5835724284,Shatabdi Express,12001,Mumbai,Ahmedabad,7/15/2023,General,444.69,Confirmed
+2798196018,Shatabdi Express,12001,Jaipur,Bangalore,8/22/2024,3AC,827.46,Confirmed
+4348546916,Rajdhani Express,12951,Pune,Bangalore,12/14/2023,3AC,2424.56,RAC
+8607937028,Tejas Express,22119,Lucknow,Mumbai,5/30/2024,1AC,3577.04,RAC
+1605870312,Humsafar Express,22448,Jaipur,Hyderabad,4/6/2023,3AC,899.98,Confirmed
+1491167584,Rajdhani Express,12951,Lucknow,Bangalore,8/14/2023,3AC,2316.84,Waiting
+6446479712,Garib Rath Express,12909,Bangalore,Pune,10/23/2023,3AC,1731.29,Waiting
+5507172009,Humsafar Express,22448,Jaipur,Pune,12/2/2024,1AC,3589.29,Cancelled
+7528411311,Humsafar Express,22448,Bangalore,Jaipur,12/27/2024,1AC,2736.33,Cancelled
+7673015240,Humsafar Express,22448,Hyderabad,Lucknow,12/5/2023,2AC,3249.33,Confirmed
+4057567888,Shatabdi Express,12001,Chennai,Hyderabad,6/11/2023,3AC,1973.17,Cancelled
+2137062244,Garib Rath Express,12909,Hyderabad,Jaipur,3/25/2024,Sleeper,486.99,Confirmed
+8059088357,Duronto Express,12245,Kolkata,Chennai,1/2/2023,3AC,1667.8,Waiting
+1235529685,Garib Rath Express,12909,Jaipur,Mumbai,10/31/2024,Sleeper,678.97,Confirmed
+3296666699,Tejas Express,22119,Jaipur,Ahmedabad,2/28/2023,2AC,3197.73,Cancelled
+2918555569,Tejas Express,22119,Hyderabad,Jaipur,6/6/2024,3AC,1715.84,Waiting
+2418625949,Garib Rath Express,12909,Kolkata,Jaipur,5/11/2024,1AC,3940.45,Confirmed
+6582768372,Shatabdi Express,12001,Hyderabad,Lucknow,5/16/2024,1AC,3425.16,Waiting
+7435248083,Garib Rath Express,12909,Bangalore,Hyderabad,2/20/2023,General,340.58,Waiting
+9979023818,Garib Rath Express,12909,Hyderabad,Pune,4/11/2023,General,420.28,Waiting
+6355415699,Tejas Express,22119,Bangalore,Lucknow,6/14/2023,Sleeper,813.28,RAC
+3575554929,Rajdhani Express,12951,Pune,Kolkata,4/4/2024,1AC,4949.65,RAC
+3834378331,Tejas Express,22119,New Delhi,Jaipur,10/20/2024,2AC,3516.36,Confirmed
+3078498319,Garib Rath Express,12909,Mumbai,Hyderabad,5/9/2024,Sleeper,945.82,RAC
+3527070940,Garib Rath Express,12909,Bangalore,Lucknow,2/5/2023,2AC,3085.7,RAC
+9058953680,Garib Rath Express,12909,Mumbai,Pune,3/5/2023,1AC,4885.95,Waiting
+9926894764,Tejas Express,22119,Hyderabad,Jaipur,8/15/2023,1AC,2952.79,Confirmed
+5979365012,Shatabdi Express,12001,Bangalore,Jaipur,7/17/2023,1AC,2691.1,Cancelled
+7543148634,Humsafar Express,22448,Jaipur,Chennai,2/15/2024,2AC,3382.62,RAC
+8062038150,Duronto Express,12245,Ahmedabad,Hyderabad,9/26/2023,Sleeper,491.69,Cancelled
+9397989115,Duronto Express,12245,Mumbai,Pune,1/10/2023,General,371.35,Confirmed
+4732380635,Tejas Express,22119,Lucknow,Pune,7/25/2023,2AC,2402.1,RAC
+6043225217,Tejas Express,22119,Kolkata,Ahmedabad,1/2/2023,3AC,2106.95,Waiting
+8868123982,Humsafar Express,22448,Bangalore,Kolkata,4/28/2024,3AC,1626.53,Cancelled
+7759046217,Duronto Express,12245,Hyderabad,Pune,2/16/2024,1AC,3360.99,Confirmed
+1059549265,Shatabdi Express,12001,Mumbai,Hyderabad,7/5/2023,1AC,3005.77,Waiting
+8560251812,Rajdhani Express,12951,Jaipur,Chennai,5/2/2023,General,263.35,RAC
+3509539351,Duronto Express,12245,Pune,Kolkata,7/13/2023,Sleeper,428.53,Cancelled
+2110836963,Humsafar Express,22448,New Delhi,Kolkata,12/6/2024,2AC,3129.38,Cancelled
+4823160319,Tejas Express,22119,Mumbai,Bangalore,4/5/2023,Sleeper,569.75,Cancelled
+8805187855,Garib Rath Express,12909,New Delhi,Jaipur,9/7/2023,1AC,2750.93,Confirmed
+7841416686,Tejas Express,22119,Jaipur,Bangalore,12/11/2024,Sleeper,767.14,Cancelled
+1337416187,Rajdhani Express,12951,Pune,Kolkata,4/11/2024,Sleeper,903.82,Cancelled
+8099387519,Humsafar Express,22448,Chennai,New Delhi,1/31/2024,General,238.72,Waiting
+4883017966,Garib Rath Express,12909,Lucknow,Jaipur,8/11/2024,1AC,4705.02,Cancelled
+1648434603,Duronto Express,12245,Chennai,Jaipur,5/2/2024,Sleeper,560.24,Confirmed
+5077920408,Humsafar Express,22448,Pune,Mumbai,10/29/2023,General,256.89,Confirmed
+2691438337,Rajdhani Express,12951,Lucknow,Pune,5/20/2023,General,324.88,Confirmed
+9327293805,Tejas Express,22119,Pune,New Delhi,11/3/2023,1AC,3623.28,Cancelled
+2154581093,Garib Rath Express,12909,Hyderabad,Kolkata,11/18/2024,3AC,2026.38,Waiting
+5219185248,Humsafar Express,22448,Mumbai,Bangalore,10/12/2024,General,326.03,Cancelled
+4107550930,Rajdhani Express,12951,Ahmedabad,Lucknow,9/1/2023,1AC,3797.72,Cancelled
+3794776863,Shatabdi Express,12001,Mumbai,Pune,2/23/2023,3AC,1592.26,Waiting
+5119423289,Duronto Express,12245,Chennai,Hyderabad,8/7/2024,General,312.01,Waiting
+3898522043,Rajdhani Express,12951,Chennai,Ahmedabad,1/13/2024,Sleeper,562.68,RAC
+2273995951,Garib Rath Express,12909,Kolkata,Jaipur,3/9/2024,1AC,4452.94,Cancelled
+5869348229,Duronto Express,12245,Mumbai,Pune,9/16/2023,1AC,4381.05,RAC
+1027103401,Tejas Express,22119,Pune,Hyderabad,11/12/2024,2AC,2453.94,Cancelled
+8310535769,Duronto Express,12245,Pune,Jaipur,10/4/2023,3AC,2095,Confirmed
+3961073522,Shatabdi Express,12001,Kolkata,Lucknow,9/11/2023,3AC,2442.82,Waiting
+7830968038,Shatabdi Express,12001,Pune,Mumbai,12/22/2024,1AC,4490.83,RAC
+2435845351,Garib Rath Express,12909,Lucknow,Mumbai,9/28/2023,General,458.77,RAC
+5350182190,Duronto Express,12245,Kolkata,Ahmedabad,8/17/2024,General,445.27,Confirmed
+5087431451,Tejas Express,22119,Hyderabad,Bangalore,8/2/2024,3AC,2302.63,Waiting
+8747503568,Rajdhani Express,12951,Lucknow,New Delhi,2/4/2024,2AC,3557.29,RAC
+4098390199,Garib Rath Express,12909,Mumbai,Hyderabad,3/12/2024,2AC,3782.35,Waiting
+8607523745,Rajdhani Express,12951,Hyderabad,Kolkata,8/6/2024,1AC,3882.22,Waiting
+9937516530,Humsafar Express,22448,New Delhi,Mumbai,10/11/2023,3AC,1151.31,Cancelled
+6210464483,Shatabdi Express,12001,Chennai,Kolkata,11/30/2024,General,411.86,RAC
+9451684783,Shatabdi Express,12001,Ahmedabad,Hyderabad,11/13/2023,General,388.93,RAC
+9232408986,Rajdhani Express,12951,Bangalore,Pune,4/26/2023,2AC,3167.35,Waiting
+3360101542,Garib Rath Express,12909,Lucknow,Ahmedabad,1/3/2023,2AC,3701.78,RAC
+3363374799,Shatabdi Express,12001,Bangalore,Lucknow,7/4/2023,3AC,1456.02,RAC
+9659695007,Rajdhani Express,12951,New Delhi,Bangalore,10/10/2023,Sleeper,657.04,Cancelled
+6369051297,Tejas Express,22119,Bangalore,Mumbai,3/8/2024,1AC,4549.26,Waiting
+4766077722,Duronto Express,12245,Kolkata,New Delhi,8/6/2024,1AC,4132.31,Confirmed
+3068488123,Shatabdi Express,12001,Chennai,Bangalore,6/18/2024,Sleeper,695.82,RAC
+9681742905,Duronto Express,12245,Bangalore,Pune,8/29/2024,General,248.05,Waiting
+2728718727,Garib Rath Express,12909,Hyderabad,New Delhi,6/9/2023,1AC,3546.31,Confirmed
+6175692970,Garib Rath Express,12909,Mumbai,Ahmedabad,5/9/2024,General,482.32,Confirmed
+6205738327,Garib Rath Express,12909,Pune,Hyderabad,5/30/2023,1AC,2537.46,Cancelled
+1057111288,Shatabdi Express,12001,New Delhi,Bangalore,6/20/2024,2AC,2481.81,Waiting
+2815247874,Humsafar Express,22448,Mumbai,New Delhi,11/19/2023,2AC,1559.26,Confirmed
+9024147902,Duronto Express,12245,Ahmedabad,Kolkata,7/14/2024,General,287.4,RAC
+6698723037,Duronto Express,12245,Ahmedabad,New Delhi,1/15/2023,Sleeper,402.05,RAC
+3415529742,Duronto Express,12245,Pune,Bangalore,2/19/2023,2AC,1901.97,Cancelled
+8319732290,Garib Rath Express,12909,Pune,Mumbai,8/10/2023,1AC,2704.96,RAC
+7887203319,Humsafar Express,22448,Lucknow,Mumbai,11/5/2024,2AC,3566.36,Confirmed
+3750548023,Rajdhani Express,12951,Jaipur,New Delhi,2/9/2023,1AC,3260.37,Confirmed
+2336899787,Humsafar Express,22448,Ahmedabad,Mumbai,4/6/2023,3AC,875.94,RAC
+8602297882,Duronto Express,12245,Ahmedabad,Chennai,5/26/2024,General,475.15,RAC
+5489187584,Tejas Express,22119,Bangalore,Jaipur,6/14/2023,2AC,2012.5,RAC
+1762190262,Duronto Express,12245,Bangalore,Kolkata,5/18/2023,1AC,4181.53,Waiting
+4887682094,Shatabdi Express,12001,Bangalore,Ahmedabad,4/3/2024,3AC,2498.32,RAC
+5748786345,Shatabdi Express,12001,Pune,New Delhi,12/31/2024,2AC,3712.1,Cancelled
+4228620844,Shatabdi Express,12001,Pune,New Delhi,9/17/2024,2AC,2692.36,Waiting
+6353876136,Humsafar Express,22448,Kolkata,Mumbai,10/21/2023,1AC,3882.69,Cancelled
+3506980314,Tejas Express,22119,Chennai,Jaipur,4/25/2024,General,394.59,Confirmed
+3429068863,Rajdhani Express,12951,Chennai,Bangalore,2/15/2024,Sleeper,664.57,Confirmed
+9795894911,Tejas Express,22119,Jaipur,Lucknow,4/25/2024,1AC,2512.08,Waiting
+5942756931,Rajdhani Express,12951,Lucknow,Ahmedabad,1/15/2023,1AC,4606.79,Confirmed
+5524298790,Garib Rath Express,12909,Bangalore,New Delhi,3/8/2024,Sleeper,986.21,Waiting
+6988675467,Rajdhani Express,12951,Jaipur,Mumbai,2/24/2024,1AC,4525.52,Cancelled
+3382508078,Tejas Express,22119,Bangalore,Jaipur,10/7/2024,2AC,1994.23,Waiting
+2306457242,Humsafar Express,22448,Kolkata,Pune,1/29/2024,General,313.3,RAC
+8834192977,Rajdhani Express,12951,Kolkata,Lucknow,11/8/2024,3AC,2427.94,RAC
+4959621762,Garib Rath Express,12909,Hyderabad,Jaipur,4/15/2024,2AC,3396.31,Confirmed
+5111752543,Rajdhani Express,12951,Chennai,Hyderabad,8/25/2024,2AC,1569.12,Cancelled
+9278943518,Humsafar Express,22448,New Delhi,Chennai,11/8/2023,1AC,2918.32,RAC
+7807301926,Humsafar Express,22448,New Delhi,Ahmedabad,4/28/2024,1AC,3300.02,Waiting
+7561908173,Tejas Express,22119,Jaipur,Bangalore,6/30/2023,2AC,2657.23,Cancelled
+7236463498,Tejas Express,22119,Jaipur,Lucknow,6/9/2024,3AC,1435.72,Cancelled
+4103922680,Duronto Express,12245,Pune,Ahmedabad,7/2/2023,3AC,1946.23,RAC
+4812824043,Duronto Express,12245,Hyderabad,Mumbai,10/20/2024,Sleeper,618.34,Confirmed
+6026857399,Humsafar Express,22448,Ahmedabad,Kolkata,2/22/2023,3AC,1720.21,RAC
+2190765221,Rajdhani Express,12951,Jaipur,Hyderabad,4/22/2024,General,282.28,RAC
+8815385535,Garib Rath Express,12909,Jaipur,Mumbai,2/23/2024,1AC,4897.36,Cancelled
+1452452896,Humsafar Express,22448,Bangalore,Pune,8/20/2023,General,262.55,Waiting
+7227550437,Shatabdi Express,12001,Ahmedabad,Hyderabad,7/18/2024,1AC,3927.24,Confirmed
+8092549558,Tejas Express,22119,New Delhi,Ahmedabad,9/11/2024,General,265.87,RAC
+4780147854,Humsafar Express,22448,Pune,Hyderabad,12/26/2023,3AC,1777.87,Cancelled
+8690414321,Duronto Express,12245,Pune,Chennai,7/26/2023,General,384,Confirmed
+7603495840,Tejas Express,22119,Chennai,Mumbai,7/16/2024,3AC,1429.18,Confirmed
+7816509678,Tejas Express,22119,Jaipur,Hyderabad,7/28/2024,2AC,1827.04,Cancelled
+5051033253,Garib Rath Express,12909,New Delhi,Hyderabad,2/25/2023,Sleeper,979.58,Cancelled
+8907350928,Rajdhani Express,12951,Ahmedabad,Pune,10/3/2024,3AC,2436.97,Waiting
+8052637204,Duronto Express,12245,Kolkata,Lucknow,1/26/2024,Sleeper,581.46,Waiting
+8854304068,Rajdhani Express,12951,New Delhi,Pune,2/22/2023,Sleeper,548.2,Waiting
+3780129681,Garib Rath Express,12909,Jaipur,Kolkata,11/10/2023,1AC,2668.64,Cancelled
+8433610443,Humsafar Express,22448,Bangalore,New Delhi,1/8/2023,General,262.3,Confirmed
+1387985247,Garib Rath Express,12909,Jaipur,Kolkata,1/22/2024,General,305.94,RAC
+5232202859,Tejas Express,22119,Kolkata,Ahmedabad,3/1/2024,2AC,3676.58,RAC
+6006194117,Shatabdi Express,12001,Lucknow,Jaipur,11/8/2023,Sleeper,867.84,Waiting
+9908415805,Tejas Express,22119,Ahmedabad,Bangalore,5/12/2024,2AC,3974.2,Waiting
+6417708250,Garib Rath Express,12909,Lucknow,Hyderabad,8/15/2023,Sleeper,404.77,Confirmed
+7425556568,Garib Rath Express,12909,Hyderabad,Ahmedabad,7/9/2023,General,276.7,RAC
+4375261902,Garib Rath Express,12909,Mumbai,New Delhi,7/6/2024,Sleeper,976.43,Cancelled
+2937270953,Garib Rath Express,12909,New Delhi,Kolkata,11/19/2024,3AC,2060.48,RAC
+4152889955,Garib Rath Express,12909,Bangalore,Ahmedabad,2/3/2023,3AC,1332.65,RAC
+8932699249,Duronto Express,12245,Ahmedabad,Chennai,1/26/2023,1AC,3173.72,Confirmed
+5286958045,Garib Rath Express,12909,Pune,New Delhi,8/15/2024,1AC,4503.09,Waiting
+3293366923,Rajdhani Express,12951,Pune,Kolkata,12/17/2024,Sleeper,927.73,RAC
+4591655561,Duronto Express,12245,Pune,Lucknow,9/30/2024,Sleeper,586.84,Confirmed
+9829730941,Tejas Express,22119,Pune,Chennai,3/23/2023,Sleeper,632.95,Cancelled
+4396761855,Humsafar Express,22448,Hyderabad,Jaipur,10/26/2023,3AC,1431.24,Waiting
+1423008954,Garib Rath Express,12909,Ahmedabad,Mumbai,12/25/2023,Sleeper,501.96,Confirmed
+9894514760,Rajdhani Express,12951,Pune,Hyderabad,5/17/2023,2AC,1917.45,RAC
+9035966287,Humsafar Express,22448,Jaipur,Mumbai,3/20/2023,General,229.67,Confirmed
+7876939859,Duronto Express,12245,Jaipur,Ahmedabad,6/30/2024,1AC,3501.6,Confirmed
+4760452929,Rajdhani Express,12951,Pune,Chennai,1/26/2023,General,476.76,Confirmed
+7234062290,Tejas Express,22119,Bangalore,Ahmedabad,12/19/2023,2AC,3651.01,Cancelled
+1541702584,Tejas Express,22119,Chennai,New Delhi,11/19/2023,Sleeper,502.02,Confirmed
+9407424061,Duronto Express,12245,Ahmedabad,Lucknow,9/27/2023,2AC,1859.33,RAC
+5958789384,Tejas Express,22119,Pune,Lucknow,1/29/2024,Sleeper,650.54,Confirmed
+4504258709,Humsafar Express,22448,Pune,Chennai,9/24/2024,3AC,1700.97,Cancelled
+7449311690,Shatabdi Express,12001,Pune,Chennai,3/4/2024,General,360.79,Cancelled
+7505645169,Duronto Express,12245,Hyderabad,Mumbai,7/15/2024,2AC,3111.61,Cancelled
+2469645065,Rajdhani Express,12951,Lucknow,Chennai,8/6/2024,2AC,1790.09,Waiting
+4643598397,Garib Rath Express,12909,Hyderabad,Mumbai,6/29/2024,2AC,3998.56,Waiting
+4635795787,Garib Rath Express,12909,Hyderabad,Lucknow,4/23/2024,2AC,1870.16,Waiting
+7651170852,Duronto Express,12245,New Delhi,Lucknow,12/31/2023,1AC,3067.21,Confirmed
+3268013855,Duronto Express,12245,Mumbai,Pune,1/25/2024,2AC,2352.68,Confirmed
+7724489625,Garib Rath Express,12909,New Delhi,Mumbai,3/5/2024,Sleeper,794.25,Cancelled
+8354908471,Duronto Express,12245,New Delhi,Ahmedabad,11/30/2023,General,439.55,RAC
+7026226218,Duronto Express,12245,Mumbai,Lucknow,2/11/2024,General,269.88,RAC
+9519431837,Humsafar Express,22448,Jaipur,Hyderabad,3/1/2023,2AC,1687.02,RAC
+6522995686,Humsafar Express,22448,Jaipur,Lucknow,11/20/2024,Sleeper,594.1,Confirmed
+3060753042,Garib Rath Express,12909,New Delhi,Ahmedabad,7/23/2024,2AC,3300.79,RAC
+4935223722,Garib Rath Express,12909,Hyderabad,Kolkata,11/22/2023,1AC,4177.2,RAC
+2348519539,Garib Rath Express,12909,Chennai,Kolkata,10/20/2024,General,243.56,RAC
+5125441530,Duronto Express,12245,Bangalore,Kolkata,4/27/2023,1AC,4364.28,Waiting
+2263336189,Humsafar Express,22448,Chennai,Mumbai,2/25/2024,1AC,4357.2,Confirmed
+4606363303,Garib Rath Express,12909,Jaipur,Hyderabad,1/1/2023,1AC,4197.12,Cancelled
+9099457878,Duronto Express,12245,New Delhi,Jaipur,2/26/2023,General,404.47,Confirmed
+5298443501,Rajdhani Express,12951,New Delhi,Mumbai,7/11/2024,General,471.02,Waiting
+7498974212,Rajdhani Express,12951,Pune,Jaipur,3/29/2023,2AC,3839.96,Cancelled
+9283535260,Rajdhani Express,12951,New Delhi,Jaipur,3/26/2023,Sleeper,617.92,Waiting
+6759093932,Tejas Express,22119,Hyderabad,Bangalore,11/24/2024,1AC,2613.06,Confirmed
+8172995958,Humsafar Express,22448,Kolkata,Mumbai,10/10/2024,2AC,3010.99,Cancelled
+7065357448,Garib Rath Express,12909,Pune,Bangalore,12/8/2024,Sleeper,609,Confirmed
+8950685906,Humsafar Express,22448,Jaipur,New Delhi,3/4/2024,3AC,1803.11,Waiting
+9300686631,Shatabdi Express,12001,Chennai,Mumbai,10/17/2023,Sleeper,770.77,Waiting
+9850752945,Humsafar Express,22448,Chennai,New Delhi,5/28/2023,1AC,4749,Cancelled
+8725248880,Tejas Express,22119,Hyderabad,Chennai,6/29/2023,2AC,1553.78,RAC
+1480271048,Humsafar Express,22448,Lucknow,New Delhi,8/26/2024,3AC,1976.34,Cancelled
+7607556944,Humsafar Express,22448,Bangalore,Ahmedabad,3/18/2024,Sleeper,760.07,Cancelled
+7758571216,Garib Rath Express,12909,Pune,Bangalore,7/29/2023,3AC,964.8,Confirmed
+9910281979,Tejas Express,22119,Mumbai,New Delhi,10/10/2023,General,214.99,Confirmed
+3155793377,Shatabdi Express,12001,New Delhi,Chennai,10/10/2023,General,276.7,Waiting
+6627061760,Rajdhani Express,12951,Hyderabad,New Delhi,4/9/2023,General,341.28,RAC
+2543901845,Shatabdi Express,12001,Hyderabad,Chennai,2/3/2024,3AC,2221.78,Waiting
+6194347091,Tejas Express,22119,Pune,New Delhi,1/15/2024,1AC,4022.01,Waiting
